@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="TK Scripts">
+
+ <category name="Envelopes">
+    <reapack name="TK_CopyAllEnvelopes.lua" type="script" desc="Copy all envelopes">
+    <version name="1.0" author="TouristKiller" time="2024-09-13T12:00:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Envelopes/TK_CopyAllEnvelopes.lua</source>
+    </version>
+    </reapack>
+   
+    <reapack name="TK_PasteAllEnvelopes.lua" type="script" desc="Paste all envelopes">
+    <version name="1.0" author="TouristKiller" time="2024-09-13T12:00:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Envelopes/TK_PasteAllEnvelopes.lua</source>
+    </version>
+    </reapack>
+ </category>
+
+ <category name="TK SMART">
+    <reapack name="TK_SMART.lua" type="script" desc="TK SMART">
+    <version name="2.3.0" author="TouristKiller" time="2026-04-11T14:20:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/TK%20SMART/TK_SMART.lua</source>
+    <source file="TK_Action_Browser.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/TK%20SMART/TK_Action_Browser.lua</source>
+    <source file="TK_Learn_Browser(MR).lua">https://github.com/TouristKiller/TK-Scripts/raw/master/TK%20SMART/TK_Learn_Browser(MR).lua</source>
+    <source file="TK_marker at middle items on the track.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/TK%20SMART/TK_marker%20at%20middle%20items%20on%20the%20track.lua</source>
+    <source file="TK_marker at start items on the track.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/TK%20SMART/TK_marker%20at%20start%20items%20on%20the%20track.lua</source>
+    <source file="TK_Marker_Region_Action_Browser.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/TK%20SMART/TK_Marker_Region_Action_Browser.lua</source>
+    <source file="weblinks.txt">https://github.com/TouristKiller/TK-Scripts/raw/master/TK%20SMART/weblinks.txt</source>
+    <source file="presets/g_preset01.json">https://github.com/TouristKiller/TK-Scripts/raw/master/TK%20SMART/presets/g_preset01.json</source>
+    <source file="json.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/TK%20SMART/json.lua</source>
+    </version>
+    </reapack>
+ </category>
+
+ <category name="FX">
+    <reapack name="TK_FX_BROWSER.lua" type="script" desc="TK FX BROWSER">
+    <version name="2.9.1" author="TouristKiller" time="2026-05-11T15:50:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TK_FX_BROWSER.lua</source>
+    <source file="DrawMeter.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/DrawMeter.lua</source>
+    <source file="TKFXBVariables.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TKFXBVariables.lua</source>
+    <source file="TKFXBProjectMeta.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TKFXBProjectMeta.lua</source>
+    <source file="TKFXBPatchbay.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TKFXBPatchbay.lua</source>
+    <source file="json.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/json.lua</source>
+    <source main="main" file="TK_NOTES.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TK_NOTES.lua</source>
+    <source main="main" file="TK_FX_BROWSER Mini.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TK_FX_BROWSER%20Mini.lua</source>
+    <source main="main" file="TK_NOTES_OpenTrackMode.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TK_NOTES_OpenTrackMode.lua</source>
+    <source main="main" file="TK_NOTES_OpenItemMode.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TK_NOTES_OpenItemMode.lua</source>
+    <source main="main" file="TK_NOTES_OpenProjectMode.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TK_NOTES_OpenProjectMode.lua</source>
+    <source main="main" file="TK_NOTES_OpenGlobalMode.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TK_NOTES_OpenGlobalMode.lua</source>
+    <source main="main" file="TK_FX_BROWSER_SnapshotFX.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TK_FX_BROWSER_SnapshotFX.lua</source>
+                <changelog><![CDATA[    
+    v0.8.1/ 2.9.1:
+
+]]></changelog>
+    </version>
+    </reapack>
+
+    <reapack name="TK_Patchbay_Standalone.lua" type="script" desc="TK Patchbay Viewer (Standalone)">
+    <version name="1.0.1" author="TouristKiller" time="2026-05-11T17:15:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TK_Patchbay_Standalone.lua</source>
+    <source file="TKFXBPatchbay_Standalone.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20BROWSER/TKFXBPatchbay_Standalone.lua</source>
+                <changelog><![CDATA[
++ v1.0.1: Use dedicated module file (TKFXBPatchbay_Standalone.lua) to prevent ReaPack conflict with TK FX BROWSER
++ Initial public release - fully-featured standalone Patchbay viewer
+]]></changelog>
+    </version>
+    </reapack>
+
+    <reapack name="TK_FX_BROWSER_TOGGLE_VISIBILITY.lua" type="script" desc="TK FX BROWSER - Toggle Visibility">
+    <version name="1.0.2" author="TouristKiller" time="2025-08-30T15:10:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_FX_BROWSER_TOGGLE_VISIBILITY.lua</source>
+                <changelog><![CDATA[           
++ Initial release - Toggle FX Browser window visibility while keeping it running in background
+]]></changelog>
+    </version>
+    </reapack>
+
+    <reapack name="TK_FX_BROWSER_Mini_TOGGLE_VISIBILITY.lua" type="script" desc="TK FX BROWSER Mini - Toggle Visibility">
+    <version name="1.0.0" author="TouristKiller" time="2025-11-05T21:30:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_FX_BROWSER_Mini_TOGGLE_VISIBILITY.lua</source>
+                <changelog><![CDATA[           
++ Initial release - Toggle FX Browser Mini window visibility while keeping it running in background
+]]></changelog>
+    </version>
+    </reapack>
+
+    <reapack name="TK_FX_BROWSER_TOGGLE_BOTH.lua" type="script" desc="TK FX BROWSER - Toggle Both (Main + Mini)">
+    <version name="1.0.0" author="TouristKiller" time="2025-11-05T21:30:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_FX_BROWSER_TOGGLE_BOTH.lua</source>
+                <changelog><![CDATA[           
++ Initial release - Toggle visibility of both TK FX BROWSER and Mini windows simultaneously
+]]></changelog>
+    </version>
+    </reapack>
+
+    <reapack name="TK_FX_BROWSER_TOGGLE_SCREENSHOT_WINDOW.lua" type="script" desc="TK FX BROWSER - Toggle Screenshot Window">
+    <version name="1.1" author="TouristKiller" time="2026-04-21T14:00:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_FX_BROWSER_TOGGLE_SCREENSHOT_WINDOW.lua</source>
+                <changelog><![CDATA[           
++ Initial release - Toggle Screenshot Window panel via ExtState (works as global shortcut)
+]]></changelog>
+    </version>
+    </reapack>
+
+    <reapack name="TK_FX_BROWSER_SHOW_WINDOW.lua" type="script" desc="TK FX BROWSER - Show Window">
+    <version name="1.0.0" author="TouristKiller" time="2025-08-30T14:50:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_FX_BROWSER_SHOW_WINDOW.lua</source>
+                <changelog><![CDATA[           
++ Initial release - Force show FX Browser window (fallback script)
+]]></changelog>
+    </version>
+    </reapack>
+
+
+    <reapack name="TK_Native_FX_Browser_Redirect.lua" type="script" desc="TK Native FX Browser Redirect">
+    <version name="1.3.1" author="TouristKiller" time="2026-05-06T14:30:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_Native_FX_Browser_Redirect.lua</source>
+                <changelog><![CDATA[
++ Initial release - Redirects REAPER's native FX browser to an alternative script of your choice (e.g. TK FX Browser).
+]]></changelog>
+    </version>
+    </reapack>
+
+    <reapack name="TK_Native_FX_Browser_Redirect_Settings.lua" type="script" desc="TK Native FX Browser Redirect - Settings">
+    <version name="1.4.1" author="TouristKiller" time="2026-05-06T14:30:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_Native_FX_Browser_Redirect_Settings.lua</source>
+                <changelog><![CDATA[
++ Initial release - Configuration window for TK Native FX Browser Redirect (presets, custom paths, monitor toggle).
+]]></changelog>
+    </version>
+    </reapack>
+
+
+    <reapack name="TK_Slot_Machine.lua" type="script" desc="TK Slot Machine - FX Slots Manager">
+    <version name="0.3.9" author="TouristKiller" time="2025-11-29T20:25:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20SLOTS%20MANAGER/TK_Slot_Machine.lua</source>
+    <source file="SLOTS.png">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20SLOTS%20MANAGER/SLOTS.png</source>
+                <changelog><![CDATA[           
++ Initial release
+
+]]></changelog>
+    </version>
+    </reapack> 
+
+    <reapack name="TK_Replace_Focused_Slot_On_Selected_Tracks_Picker.lua" type="script" desc="TK FX SLOTS PICKERS">
+    <version name="0.0.3" author="TouristKiller" time="2025-08-24T22:15:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20SLOT%20PICKERS/TK_Replace_Focused_Slot_On_Selected_Tracks_Picker.lua</source>
+                <changelog><![CDATA[           
+++ INITIAL RELEASE FOR TESTING
+
+]]></changelog>
+    </version>
+    </reapack> 
+
+    <reapack name="TK_Replace_Slot_On_Tracks_Picker.lua" type="script" desc="TK FX SLOTS PICKERS">
+    <version name="0.0.2" author="TouristKiller" time="2025-08-24T22:15:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK%20FX%20SLOT%20PICKERS/TK_Replace_Slot_On_Tracks_Picker.lua</source>
+                <changelog><![CDATA[           
++ Choose a slot number (no focus needed) and replace across selected or all tracks.
+]]></changelog>
+    </version>
+    </reapack> 
+
+    <reapack name="TK_Add_ReVue_to_Tracks.lua" type="script" desc="TK Add ReVue VU Meter to Selected Tracks (MCP Embedded)">
+    <version name="1.1" author="TouristKiller" time="2026-01-04T16:00:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_Add_ReVue_to_Tracks.lua</source>
+                <changelog><![CDATA[           
++ v1.1: Improved timing with extra defer cycles and verification for reliable MCP embedding
++ Initial release
+]]></changelog>
+    </version>
+    </reapack>
+
+    <reapack name="TK_Add_ReVue_to_Tracks_Chunk.lua" type="script" desc="TK Add ReVue VU Meter to Selected Tracks (MCP Embedded) - Chunk Version">
+    <version name="1.0" author="TouristKiller" time="2026-01-04T16:00:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_Add_ReVue_to_Tracks_Chunk.lua</source>
+                <changelog><![CDATA[           
++ Initial release - Chunk-based embedding (faster and more reliable)
+]]></changelog>
+    </version>
+    </reapack>
+
+    <reapack name="TK_Create_Tracks_with_ReVue.lua" type="script" desc="TK Create New Track(s) with ReVue VU Meter (MCP Embedded)">
+    <version name="1.1" author="TouristKiller" time="2026-01-04T16:00:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_Create_Tracks_with_ReVue.lua</source>
+                <changelog><![CDATA[           
++ v1.1: Improved timing with extra defer cycles and verification for reliable MCP embedding
++ Initial release
+]]></changelog>
+    </version>
+    </reapack>
+
+    <reapack name="TK_Create_Tracks_with_ReVue_Chunk.lua" type="script" desc="TK Create New Track(s) with ReVue VU Meter (MCP Embedded) - Chunk Version">
+    <version name="1.0" author="TouristKiller" time="2026-01-04T16:00:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/FX/TK_Create_Tracks_with_ReVue_Chunk.lua</source>
+                <changelog><![CDATA[           
++ Initial release - Chunk-based embedding (faster and more reliable)
+]]></changelog>
+    </version>
+    </reapack>
+
+</category>
+
+<category name="Transport">
+    <reapack name="TK_TRANSPORT.lua" type="script" desc="TK_TRANSPORT">
+        <version name="1.9.7" author="TouristKiller" time="2026-04-29T16:20:00Z">
+            <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Transport/TK_TRANSPORT.lua</source>
+            <source file="json.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Transport/json.lua</source>
+            <source file="button_editor.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Transport/button_editor.lua</source>
+            <source file="button_renderer.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Transport/button_renderer.lua</source>
+            <source file="custom_buttons.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Transport/custom_buttons.lua</source>
+            <source file="icon_browser.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Transport/icon_browser.lua</source>
+            <source file="toolbar_images.zip">https://github.com/TouristKiller/TK-Scripts/raw/master/Transport/toolbar_images.zip</source>
+            <changelog><![CDATA[
+    v1.9.7:
+    + Removed: MIXER (this is now a standalone script - TK_Mixer)
+
+    v1.9.6:
+    + Fixed: Tempo drag not working on macOS (replaced JS_Mouse_SetPosition cursor-warp logic with ImGui_GetMouseDragDelta, which avoids the Cocoa mouse event suppression after CGWarpMouseCursorPosition)
+
+    v1.9.4:
+    + Added: Configurable transport button order (reorder via up/down arrows in settings)
+    + Added: Optional button background for transport buttons (color, hover, active, padding, rounding, border)
+    + Added: Separate icon color setting for graphic transport buttons
+    + Added: Extra width (horizontal padding) control for transport button backgrounds
+    + Fixed: Arrow icons (rewind/forward) now properly centered within button area
+    + Fixed: Equal spacing between transport buttons when background is enabled
+    + Refactored: Graphic and text mode rendering now use a single data-driven loop
+]]></changelog>
+        </version>
+    </reapack>
+</category>
+
+<category name="Mixer">
+    <reapack name="TK_Mixer.lua" type="script" desc="TK Mixer">
+        <version name="1.2.7" author="TouristKiller" time="2026-05-09T20:25:00Z">
+            <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Mixer/TK_Mixer.lua</source>
+            <source file="json.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Mixer/json.lua</source>
+            <source file="icon_browser.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Mixer/icon_browser.lua</source>
+            <source type="effect" file="TK_ChannelStrip.jsfx">https://github.com/TouristKiller/TK-Scripts/raw/master/Mixer/TK_ChannelStrip.jsfx</source>
+            <source type="effect" file="TK_Trim.jsfx">https://github.com/TouristKiller/TK-Scripts/raw/master/Mixer/TK_Trim.jsfx</source>
+            <source type="effect" file="TK_VU_Meter.jsfx">https://github.com/TouristKiller/TK-Scripts/raw/master/Mixer/TK_VU_Meter.jsfx</source>
+            <source file="Images/knob01.png">https://github.com/TouristKiller/TK-Scripts/raw/master/Mixer/Images/knob01.png</source>
+            <changelog><![CDATA[
+   
+
+]]></changelog>
+        </version>
+    </reapack>
+</category>
+
+
+ <category name="Tools">
+    <reapack name="TK_time selection loop color.lua" type="script" desc="TK_time selection loop color">
+    <version name="2.4" author="TouristKiller" time="2025-08-21T22:20:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_time%20selection%20loop%20color.lua</source>
+     <source main="main" file="TK_time selection loop color_setup.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_time%20selection%20loop%20color_setup.lua</source>
+    </version>
+    </reapack>
+
+    <reapack name="VigiLiens.lua" type="script" desc="VigiLiens">
+    <version name="0.2.0" author="TouristKiller" time="2024-10-11T19:40:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/VigiLiens.lua</source>
+     <source file="json.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/json.lua</source>
+    </version>
+    </reapack>
+
+    <reapack name="TK_Item gridlines.lua" type="script" desc="TK_Item gridlines">
+    <version name="0.1.5" author="TouristKiller" time="2025-11-13T01:25:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_Item%20gridlines.lua</source>
+    </version>
+    </reapack>
+
+    <reapack name="TK_AIM.lua" type="script" desc="TK Automation Item Manager (AIM)">
+    <version name="0.1.0" author="TouristKiller" time="2026-04-10T17:40:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_AIM.lua</source>
+    <source file="json_aim.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/json_aim.lua</source>
+    </version>
+    </reapack>
+
+    <reapack name="TK_RAW_audio editor.lua" type="script" desc="TK RAW Audio Editor">
+    <version name="0.0.7" author="TouristKiller" time="2025-09-23T12:30:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_RAW_audio%20editor.lua</source>
+        <source file="TK_RAW_fx browser.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_RAW_fx%20browser.lua</source>
+        <source file="json_raw.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/json_raw.lua</source>
+    </version>
+    </reapack>
+
+    <reapack name="TK_Preset_Browser.lua" type="script" desc="TK Preset Browser">
+    <version name="1.0" author="TouristKiller" time="2025-11-03T13:00:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_Preset_Browser.lua</source>
+    </version>
+    </reapack>
+
+    <reapack name="TK_Hide Item Buttons.lua" type="script" desc="TK Hide Item Buttons">
+    <version name="1.0" author="TouristKiller" time="2025-12-01T12:00:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_Hide%20Item%20Buttons.lua</source>
+    </version>
+    </reapack>
+
+    <reapack name="TK_IndestructibleTrack.lua" type="script" desc="TK Indestructible Track">
+    <version name="3.4" author="TouristKiller" time="2025-12-31T16:00:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_IndestructibleTrack.lua</source>
+    <source file="ISHIELD.png">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/ISHIELD.png</source>
+    <source main="main" file="TK_IndestructibleTrack_Toggle_Profile1.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_IndestructibleTrack_Toggle_Profile1.lua</source>
+    <source main="main" file="TK_IndestructibleTrack_Toggle_Profile2.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_IndestructibleTrack_Toggle_Profile2.lua</source>
+    <source main="main" file="TK_IndestructibleTrack_Toggle_Profile3.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_IndestructibleTrack_Toggle_Profile3.lua</source>
+    <source main="main" file="TK_IndestructibleTrack_Toggle_Profile4.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Tools/TK_IndestructibleTrack_Toggle_Profile4.lua</source>
+    <changelog><![CDATA[
++ Configurable track name prefix (enable/disable and custom text)
++ External toggle scripts for toolbar buttons with sync support
++ Toolbar buttons reflect current state when toggled via checkbox or script
+]]></changelog>
+    </version>
+    </reapack>
+ </category>
+
+ <category name="Media">
+    <reapack name="TK_MEDIA_BROWSER(SA).lua" type="script" desc="TK MEDIA BROWSER">
+        <version name="0.8.1" author="TouristKiller" time="2026-05-04T23:45:00Z">
+        <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Media/TK_MEDIA_BROWSER(SA).lua</source>
+        <source file="json_tkmb.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Media/json_tkmb.lua</source>
+        <source file="tk_filename_categorizer.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Media/tk_filename_categorizer.lua</source>
+        <source file="TKMBSETTINGS.png">https://github.com/TouristKiller/TK-Scripts/raw/master/Media/TKMBSETTINGS.png</source>
+        <changelog><![CDATA[
+v0.8.1:
++ External toggle scripts for toolbar buttons with sync support
++ Toolbar buttons reflect current state when toggled via checkbox or script
+v0.8.0:
++ New option "Use Selected Track for Audio" in Settings: routes audio preview through the currently selected track so track FX, volume, pan and sends are applied to the preview
++ Falls back to hardware output when no track is selected
++ Cartridge sampler integration: right-click an audio file -> "Add to new track with Cartridge" or "Load sample to focused Cartridge" (active waveform selection is applied as trim)
++ Pitch detection: real-time tunable stability/update/sensitivity sliders + Fast/Balanced/Smooth presets in Settings
++ Stability: fixed ImGui_EndChild assertion crash that could occur on view-mode switches (gear/shortcuts buttons)
++ Collections and Saved Searches now support 3 levels: Group / Subgroup / Sub-subgroup
++ Header context menu: "New sub-subgroup..." on a subgroup, full rename/move/delete on a sub-subgroup
++ Save Search dialog: extra "Sub-subgroup (optional)" field
++ Item context menu: "Move to sub-subgroup" submenu
++ Color picker: "Use gradient" (group + subgroup) and "Inherit parent color" (subgroup + sub-subgroup)
++ Saved searches inherit the effective color of their (sub-)subgroup, including gradient
++ Empty subgroups now stay visible after creation
+]]></changelog>
+        </version>
+    </reapack>
+    
+    <reapack name="TK_MediaExplorer_WebBridge.lua" type="script" desc="TK Media Explorer Web Controller - Bridge Script">
+        <version name="3.0" author="TouristKiller" time="2025-11-23T12:45:00Z">
+        <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Media/TK_MediaExplorer_WebBridge.lua</source>
+        <changelog><![CDATA[v1.7: HTML now embedded in script and auto-installed to reaper_www_root
++ Control Media Explorer from smartphone/web browser
++ HTML interface automatically installed on first run
++ Updates overwrite existing HTML to ensure latest version
++ Play/Stop, Random, Repeat controls
++ Navigate folders and files with arrow keys
++ Volume control
++ Display current file, folder path, and selected item
++ Requires js_ReaScriptAPI extension and REAPER web server enabled]]></changelog>
+        </version>
+    </reapack>
+    
+    <reapack name="TK_MediaExplorer_WebBridge_CrossPlatform.lua" type="script" desc="TK Media Explorer Web Controller - Cross-Platform Test">
+        <version name="3.1-beta" author="TouristKiller" time="2025-12-23T01:20:00Z">
+        <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Media/TK_MediaExplorer_WebBridge_CrossPlatform.lua</source>
+        <changelog><![CDATA[v3.1-beta: Cross-platform compatibility test version
++ Flexible class name detection for ListView/TreeView (SWELL compatibility for macOS/Linux)
++ Added Unix/macOS path detection (paths starting with /)
++ OS info logged to console on startup
++ BETA: Testers on macOS/Linux needed to verify SWELL compatibility]]></changelog>
+        </version>
+    </reapack>
+ </category>
+
+  <category name="Midi">
+    <reapack name="TK_GTR2MIDI.lua" type="script" desc="TK GTR2MIDI - With Chord Engine">
+    <version name="0.4.1" author="TouristKiller" time="2026-04-12T19:30:00Z">
+      <changelog><![CDATA[           
+   ]]></changelog>
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_GTR2MIDI.lua</source>
+    <source file="TK_GTR2MIDI_ChordEngine.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_GTR2MIDI_ChordEngine.lua</source>
+    <source file="ChordVoicings.txt">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/ChordVoicings.txt</source>
+    <source file="ChordVoicings_DoReMi.txt">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/ChordVoicings_DoReMi.txt</source>
+    </version>
+    </reapack>
+
+
+
+    <reapack name="TK_ChordGun.lua" type="script" desc="TK ChordGun - Enhanced chord generator with scale filter/remap and chord recognition">
+      <version name="2.5.5" author="TouristKiller (based on pandabot ChordGun)" time="2026-05-04T19:15:00Z">
+        <changelog><![CDATA[
+2.5.5
+[Strum]
++ Bug fix — strum offset is now correctly applied when inserting via Shift+Click (PPQ-per-beat was mis-calculated)
++ Tempo-independent — strum delay (ms) now scales with project BPM so the feel stays consistent across tempos
++ Combined right-click popup menu with submenus and check-marks (Speed Mode, Delay ms presets + Custom, Grid 1/8-1/64, Velocity Curve off/up/down/v/^, Ramp Amount presets + Custom) — no separate Ctrl modifier
++ Velocity ramp curves applied to both inserted notes and live preview playback (scale chord, slot, progression incl. repeats and next-slot)
+
+[Velocity]
++ Default Velocity: New global velocity setting via "Vel:" button in top frame next to Oct:/Inv:. Left-click cycles presets, right-click opens menu (Follow MIDI Editor / 16 / 32 / 48 / 64 / 80 / 96 / 112 / 127 / Custom). Persists between sessions.
++ Per-Slot Velocity: New "V" button on the left side of each progression slot opens a velocity panel with a theme-styled slider (1-127) overriding the global Vel: for that slot. Click "x" to reset to follow global. Persists with progression presets.
+
+[Time Selection / Insert]
++ Cursor now snaps to start of time selection if it lies outside, so Shift+Click always inserts at the selection start
++ When no time selection is active, length now falls back to MIDI Editor grid (was: very short / 2 sec on new items)
++ New MIDI items are now created at the start of the time selection (was: created from the edit cursor, which placed notes outside or in the middle of the new item)
++ New item length now exactly matches the time selection (1-bar minimum no longer applied in this mode)
++ Newly created MIDI items are now always at least 1 bar (was: 1/2 was too short, shorter lengths jumped to 1 bar inconsistently)
++ Edit cursor only wraps back to time-selection start when Note Length is set to "Time Selection". With fixed note lengths the cursor now keeps moving forward through the item even if a time selection happens to be active.
+
+[Chord Recognition]
++ Added recognition for 6, m6, add9, madd9, 9, 6/9, 11, min11, maj11, 13, min13, maj13
++ Fixed maj13 / 13 patterns to omit the (avoid-note) 11th — Cmaj13 played as C E G B D A is now correctly recognized as Cmaj13 instead of C6
++ Scoring now favors longer/exact patterns so e.g. Cmaj7 no longer mis-recognizes as C6 when both have the same number of matched notes
++ Partial-match recognition: notes may now be omitted from a voicing (1 missing for 4-note chords, 2 for 5+ note chords) — e.g. Cmaj13 without the 9 is still recognized as Cmaj13 instead of Am9/C
++ Core-interval check ensures root, 3rd and 7th are present before scoring — prevents nonsense matches on partial voicings
++ Recognition patterns are now derived from the central chord data table (single source of truth) — no more drift between insert and recognize
++ Fixed Dm9 / C9 / G9 etc. inserting as plain min7 / dom7 — chord data patterns were missing the 9
++ Fixed 11, min11, 13, maj13, min13, maj#11 chord data patterns that were missing the 9 (and 11 in min13)
++ Added madd9 and maj11 to the chord data table (were only in the recognizer before)
+
+[Monitor]
++ Chord/Note display now shows the current octave of the played note(s) as an "Oct: N" indicator centered directly below the chord/note name in the monitor window — useful for live monitoring with controllers like the Launchpad. The octave reflects the lowest currently-held note.
+
+[Inversion]
++ Ctrl+Click on chord button cycles inversion (root → 1st → 2nd → 3rd → root) with visual badge "I1/I2/I3" in top-right corner. Cycle resets after 2 seconds of no Ctrl+Click on the same button.
++ Ctrl+Shift+Click inserts the chord using the current cycle inversion (does NOT advance the cycle, so the badge value is what gets inserted)
++ Ctrl+Alt+Click adds the chord to the selected progression slot using the current cycle inversion (does NOT advance the cycle)
+
+[Tooltips]
++ Tooltips now support multi-line text and are clamped within the window so they no longer extend off-screen
++ Chord-button tooltip rewritten as multi-line list of all click actions
+
+[UI]
++ Note Length dropdown now has visible "Note length" label and is wider so "Time selection" fits
++ Chord Style dropdown widened so all entries are readable
++ Inversion moved to top frame next to Octave (compact "Inv:" / "Oct:" labels) to free space on the chord-name row
++ Chord-name display right-aligned and uses full available width to the right of the dropdowns
++ Top button row shifted slightly left for tighter alignment
++ Removed redundant "Scale:" label from top frame to free space for the new Velocity button
+
+[Drag & Drop]
++ Chord buttons can now be dragged onto progression slots (alternative to Alt+Click). A ghost label follows the cursor and the target slot highlights while dragging.
+
+[Persistence]
++ "Always on Top" and "Tooltips" toggles are now remembered between sessions (saved globally)
++ Preset Loading: Out-of-range scale/chord indices in old preset files are clamped to valid values
+
+[Crash Fixes]
++ Sparse table.concat crash when switching scales (e.g. Pentatonic > Blues) — ProjExtState tables are now self-healing
++ "MediaItem_Take expected" after deleting an item and using Shift+Click — take pointers now validated via ValidatePtr + GetMediaItemTake_Item + TakeIsMIDI
++ Shift+Click insert no longer fails with "attempt to index nil" — `playOrInsertScaleChord` now correctly resolves the selected scale note and chord type before use
+
+[State Management]
++ Chord button highlight no longer stays "stuck" on the slot-chord after Ctrl+Alt+Click → slot select → chord click — `currentlyPlayingChord` is now cleared on every chord-button press
++ New central `resetTransientState()` clears playback overlays (currentlyPlayingChord, slot velocity override, voice-leading reference, drag state, inversion cycle) on stop, slot remove, scale change and progression clear — prevents stale state from leaking between actions
+
+
+ ]]></changelog>
+
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun.lua</source>
+        <source file="TK_ChordGun/TK_ChordGun_Help.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun_Help.lua</source>
+        <source file="TK_ChordGun/TK_ChordGun_Data.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun_Data.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/Reset_TK_ChordGun_Settings.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/Reset_TK_ChordGun_Settings.lua</source>
+        <source file="TK_ChordGun/README.md">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/README.md</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun decrement chord inversion.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20decrement%20chord%20inversion.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun decrement chord type.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20decrement%20chord%20type.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun decrement octave.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20decrement%20octave.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun decrement scale tonic note.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20decrement%20scale%20tonic%20note.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun decrement scale type.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20decrement%20scale%20type.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun double grid size.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20double%20grid%20size.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun halve grid size.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20halve%20grid%20size.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun higher scale note 1.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20higher%20scale%20note%201.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun higher scale note 2.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20higher%20scale%20note%202.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun higher scale note 3.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20higher%20scale%20note%203.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun higher scale note 4.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20higher%20scale%20note%204.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun higher scale note 5.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20higher%20scale%20note%205.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun higher scale note 6.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20higher%20scale%20note%206.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun higher scale note 7.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20higher%20scale%20note%207.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun increment chord inversion.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20increment%20chord%20inversion.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun increment chord type.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20increment%20chord%20type.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun increment octave.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20increment%20octave.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun increment scale tonic note.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20increment%20scale%20tonic%20note.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun increment scale type.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20increment%20scale%20type.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun lower scale note 1.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20lower%20scale%20note%201.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun lower scale note 2.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20lower%20scale%20note%202.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun lower scale note 3.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20lower%20scale%20note%203.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun lower scale note 4.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20lower%20scale%20note%204.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun lower scale note 5.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20lower%20scale%20note%205.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun lower scale note 6.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20lower%20scale%20note%206.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun lower scale note 7.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20lower%20scale%20note%207.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale chord 1.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20chord%201.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale chord 2.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20chord%202.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale chord 3.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20chord%203.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale chord 4.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20chord%204.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale chord 5.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20chord%205.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale chord 6.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20chord%206.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale chord 7.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20chord%207.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale note 1.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20note%201.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale note 2.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20note%202.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale note 3.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20note%203.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale note 4.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20note%204.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale note 5.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20note%205.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale note 6.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20note%206.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale note 7.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20note%207.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun stop all notes from playing.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20stop%20all%20notes%20from%20playing.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun higher scale note 8.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20higher%20scale%20note%208.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun higher scale note 9.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20higher%20scale%20note%209.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun higher scale note 10.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20higher%20scale%20note%2010.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun lower scale note 8.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20lower%20scale%20note%208.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun lower scale note 9.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20lower%20scale%20note%209.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun lower scale note 10.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20lower%20scale%20note%2010.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale chord 8.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20chord%208.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale chord 9.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20chord%209.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale chord 10.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20chord%2010.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale note 8.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20note%208.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale note 9.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20note%209.lua</source>
+        <source main="main midi_editor" file="TK_ChordGun/TK_ChordGun scale note 10.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_ChordGun%20scale%20note%2010.lua</source>
+        <source type="effect" file="TK_ChordGun/TK_Scale_Filter.jsfx">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_ChordGun/TK_Scale_Filter.jsfx</source>
+      </version>
+    </reapack>
+
+    <reapack name="TK_Find Similar MIDI Items.lua" type="script" desc="TK Find Similar MIDI Items - Find matching MIDI patterns">
+      <version name="1.8" author="TouristKiller" time="2025-12-11T15:00:00Z">
+        <changelog><![CDATA[
+    + Initial release
+    + Find MIDI items similar to reference item
+    + Percentage-based similarity threshold
+    + Overlay comparison with detailed statistics
+    + Color coding by similarity percentage
+    + Select, color, and delete similar items
+    + Added pattern matching with offset detection
+    + Can now find similar patterns even if notes are shifted in time
+    + Added segment matching - find partial matches within larger items
+    + Search modes: Full Item / Segment (find reference pattern in larger items)
+    + Added Time Selection mode - use time selection within item as search pattern
+    + Fixed segment matching - extra notes in matched section now reduce similarity score
+    + Added Note Range Filter (ignore keyswitches)
+    + Added "Pin to Top" option for created tracks
+    + Added "Max Similarity" threshold
+    + Added global settings persistence (Save/Load options)
+    + Added "Show Reference" button
+    + Improved UI with tooltips and collapsible options
+    + Matches are now grouped by source track when copying
+    + Added Track Batch Mode: Select a track (without selecting items) to scan all items on that track
+    + Results are now grouped by Reference Item in Batch Mode
+    + UI Overhaul: Compact layout, collapsible settings, improved button organization
+    + Improved Sorting: Fixed sorting for items with identical similarity scores (Track # priority)
+    + Workflow: Single-click details for single matches, auto-reselect reference after replace
+    + Fix: "Replace Phrase" now correctly handles time selections with leading silence
+    + Fix: Multi-match items now sort based on their best match
+    + Added Track Selector popup - easily select which tracks to search
+    + Track selector shows track number, name and color
+    + Search/filter tracks by name in the popup
+    + Select All / Deselect All / Invert buttons for quick selection
+    + Only tracks containing MIDI items are shown
+    + Added progress indicator during analysis - UI no longer freezes
+    + Added "Lock" checkbox in Track Batch mode to lock the reference track
+        ]]></changelog>
+        <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_Find%20Similar%20MIDI%20Items.lua</source>
+        <source file="TK_Find Similar MIDI Items (CORE).lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Midi/TK_Find%20Similar%20MIDI%20Items%20(CORE).lua</source>
+      </version>
+    </reapack>
+ </category>
+
+<category name="Track">
+    <reapack name="TK_Trackname_in_Arrange.lua" type="script" desc="TK_Trackname_in_Arrange">
+        <version name="1.8.9" author="TouristKiller" time="2026-04-06T17:00:00Z">
+            <changelog><![CDATA[
+v1.8.9:
++ Labels Toggle: Excluded overlay grid from toggle
+
+v1.8.8:
++ Added TK_Trackname_Labels_Toggle.lua - toggle all labels/text/icons/borders on/off while keeping track colors
++ Added hide_all_labels setting for clean edit mode
++ Fixed info line overlapping with track icon on same side
++ Arm/Solo/Mute indicator dots now respect text_opacity
+
+v1.8.7:
++ Freeze Icon: Added optional free positioning mode
++ Freeze Icon: Can now be dragged freely over the entire track including TCP area
++ Freeze Icon: Lock/Unlock button to fix position after dragging
++ Freeze Icon: Reset button to return to default position
+
+v1.8.5:
++ Added Freeze Icon feature - displays freeze icon on frozen tracks
++ Setting to enable/disable freeze icon in Icons tab
++ Freeze icon correctly positions next to parent label and info line
+
+v1.8.3:
++ Fixed tcp icon sync
+
+v1.8.2:
++ Fixed standalone toggle script not working for turning overlay OFF
++ Overlay now properly clears when toggled off via external script
+
+v1.8.1:
++ Added TK_Trackname_Overlay_Toggle.lua script for toolbar/shortcut integration
++ Fixed icon grid column calculation for better fitting in window
++ Fixed nil error for track_icons_subfolders on first run
+
+v1.8.0:
++ Icons tab: Added REAPER Track Icons folder as browse source with subfolder dropdown
++ Icons tab: Added "Use TCP Icons" option - TCP icons take priority and sync to overlay
++ Icons tab: Added "Sync TCP" button to synchronize overlay icons with TCP icons
++ Icons tab: Renamed browse modes to "Toolbar", "Track Icons", "Custom"
++ Fixed icon browser image caching to prevent excessive resource creation
++ Fixed icon grid last column going off-screen
++ Added Overlay Toggle button (O/X) next to Settings button for quick hide/show
++ Overlay can now be quickly disabled for external drag & drop operations 
+           
+v1.7.3:
++ corrected an oepsy ;o)
+
+v1.7.2:
++ New Time Selection tab with integration for TK_time selection loop color script
++ Overlay Grid: Added Adaptive grid division mode (zooms with arrange view)
++ Overlay Grid: Added "Avoid Items" option to hide grid lines behind items
++ Overlay Grid: Added 1/16 and 1/32 subdivisions
++ Performance optimizations for Settings window
++ Track Visibility list uses cached ListClipper for virtual scrolling
+
+v1.7.1:
++ Added audio, MIDI, bus, folder track type filters to Icons tab
+          
+
+v1.7.0:
++ Icons tab: New built-in folder browser (replaces native OS dialog)
++ Icons tab: Quick access buttons for Pictures, Downloads, Documents folders
++ Icons tab: Drive selection buttons for Windows
++ Folder browser always opens on top (fixes z-order issues)
+
+
+]]>
+            </changelog>
+            <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/TK_Trackname_in_Arrange.lua</source>
+            <source main="main" file="TK_Trackname_Overlay_Toggle.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/TK_Trackname_Overlay_Toggle.lua</source>
+            <source main="main" file="TK_Trackname_Settings_Toggle.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/TK_Trackname_Settings_Toggle.lua</source>
+            <source main="main" file="TK_Trackname_DarkParentToggle.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/TK_Trackname_DarkParentToggle.lua</source>
+            <source main="main" file="TK_Trackname_Labels_Toggle.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/TK_Trackname_Labels_Toggle.lua</source>
+            <source file="json.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/json.lua</source>
+            <source file="track_icon_browser.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/track_icon_browser.lua</source>
+            <source file="track_icon_manager.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/track_icon_manager.lua</source>
+            <source file="FREEZE.png">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/FREEZE.png</source>
+        </version>
+    </reapack>
+
+    <reapack name="TK_Set selected MIDI item shape and view.lua" type="script" desc="TK_Set selected MIDI item shape and view">
+        <version name="0.3.1" author="TouristKiller" time="2025-09-08T12:00:00Z">
+            <changelog><![CDATA[           
++  View, shape and grid can now be set per track or per take
+]]></changelog>
+            <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/TK_Set%20selected%20MIDI%20item%20shape%20and%20view.lua</source>
+        </version>
+    </reapack>
+
+    <reapack name="TK_Paint_Layer.lua" type="script" desc="TK Paint Layer">
+        <version name="0.0.2" author="TouristKiller" time="2025-09-09T12:00:00Z">
+            <changelog><![CDATA[           
++ testing
+]]></changelog>
+            <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/TK_Paint_Layer.lua</source>
+            <source file="paint_json.lua">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/paint_json.lua</source>
+        </version>
+    </reapack>
+
+    <reapack name="TK_Arrange_Background_Presets.lua" type="script" desc="TK Arrange Background Presets">
+        <version name="1.5.0" author="TouristKiller" time="2026-04-28T02:4500Z">
+            <changelog><![CDATA[
++ Initial release
++ English UI labels
++ Grid color support per preset
+]]></changelog>
+            <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/TK_Arrange_Background_Presets.lua</source>
+        </version>
+    </reapack>
+
+    <reapack name="TK_Add_Send_To_Selected_Tracks.lua" type="script" desc="TK Add Send To Selected Tracks">
+        <version name="1.0" author="TouristKiller" time="2026-05-01T21:40:00Z">
+            <changelog><![CDATA[
++ Popup menu with existing send destinations from current project
++ Sorted by usage (most used first)
++ Adds send to all selected tracks, skips duplicates
+]]></changelog>
+            <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Track/TK_Add_Send_To_Selected_Tracks.lua</source>
+        </version>
+    </reapack>
+</category>
+
+ <category name="Requests">
+    <reapack name="TK_Play_And_Stop_MediaExplorer.lua" type="script" desc="Play/Stop Transport and Stop Media Explorer Preview">
+    <version name="1.0.1" author="TouristKiller" time="2025-11-22T20:30:00Z">
+    <source main="main">https://github.com/TouristKiller/TK-Scripts/raw/master/Requests/TK_Play_And_Stop_MediaExplorer.lua</source>
+    </version>
+    </reapack>
+ </category>
+
+<metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 TK Scripts - A collection of utility scripts for REAPER\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Scripts:\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 - TK SMART: Smart Markers and Regions Tool\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 - TK FX BROWSER: Advanced Visual FX Browser\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 - TK MADIA BROWSER: A Media Browser Alternative\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 - TK GTR2MIDI: Guitar to MIDI converter\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 - Various utility scripts for envelopes, tracks and media\par}
+}
+]]></description>
+</metadata>
+
+</index>

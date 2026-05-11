@@ -1,0 +1,5 @@
+[SETTINGS]
+DEPTH|1
+[LOCATIONS]
+LOC|C:\Users\Administrator\Documents\REAPER Media\
+[PROJECTS]

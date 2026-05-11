@@ -1,0 +1,4 @@
+CLAPi: Twin 3 (FabFilter)
+Video processor
+Container
+VST: FabFilter Pro-C 3 (Mono) (FabFilter)
