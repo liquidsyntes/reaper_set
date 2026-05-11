@@ -1,0 +1,45 @@
+[Floating toolbar 1]
+item_0=41101 Правь меня
+item_1=41592 Track: Show/hide tracks in mixer
+title=Панель 1
+
+[Main toolbar]
+icon_0=toolbar_misc_system_reaper.png
+icon_7=toolbar_color_selecte_delete_remove.png
+icon_16=toolbar_audio_waveform_delete_silence.png
+icon_17=toolbar_v3_envitem_off.png
+icon_20=text
+icon_21=text
+icon_22=text
+icon_23=text
+icon_24=text
+item_0=40016 Опции: настройки...
+item_1=40023 Новый проект...
+item_2=40025 Открыть проект...
+item_3=40026 Сохранить проект
+item_4=40021 Параметры проекта...
+item_5=40029 Отменить
+item_6=40030 Вернуть
+item_7=_RSee6a1ac287680935843ea018df04dcdae861618d Скрипт: rodilab_Color palette.lua
+item_8=40364 Включить метроном
+item_9=42616 Override mouse modifiers for marquee selection (arrange view A)
+item_10=40041 Включить автокроссфейд
+item_11=1156 Включить группировку элементов и группировку треков медиа/razor-правки
+item_12=40070 Перемеcтить точки огибающей с медиаэлементами
+item_13=40145 Показать сетку в аранжировке
+item_14=1157 Включить привязку
+item_15=1135 Включить блокировку
+item_16=40315 Элемент: автообрезка/разделение элементов (удаление тишины)...
+item_17=40858 Дорожка автоматизации: немного уменьшить активный фейдер
+item_18=1155 Включить автоотсечку времени
+item_19=42618 Override mouse modifiers for razor editing (arrange view B)
+item_20=40781 Q1
+item_21=41210 Q2
+item_22=42006 Q3
+item_23=41211 Q4
+item_24=40780 1/2
+tbf_9=1
+tbf_18=1
+tbf_19=1
+title=Основная панель
+

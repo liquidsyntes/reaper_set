@@ -1,0 +1,41 @@
+C10018 "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics"
+F "AC hum1.wav" 156526 0 1654889596 0
+D s 44100 n 1 l 0:01.774 i 16
+F "AC hum2.wav" 185196 0 1654889596 0
+D s 44100 n 1 l 0:02.099 i 16
+F "Air Can 1.wav" 165500 0 1654889596 0
+D a "Steve Duda" c "Air in a Can, recorded with MacBook mic" s 44100 n 1
+D l 0:01.875 i 16
+F "Air Can 2.wav" 81834 0 1654889596 0
+D a "Steve Duda" c "Air in a Can, recorded with MacBook mic" s 44100 n 1
+D l 0:00.926 i 16
+F "Air Can 3.wav" 176736 0 1654889596 0
+D s 44100 n 1 l 0:02.003 i 16
+F "Air Can 4.wav" 127502 0 1654889596 0
+D s 44100 n 1 l 0:01.445 i 16
+F "Air Can 5.wav" 176150 0 1654889596 0
+D s 44100 n 1 l 0:01.997 i 16
+F CymLoop.wav 18844 0 1654889596 0
+D t CymLoop a "Steve Duda Cymbal" c "made for xfer synth" s 44100
+D n 1 l 0:00.212 i 16
+F CymMicBleed.wav 507196 0 1654889596 0
+D s 44100 n 2 l 0:02.875 i 16
+F H-Breath.wav 82790 0 1654889596 0
+D a "Chris James" c "vocal breath" s 44100 n 1
+D l 0:00.938 i 16
+F "Paper Bag.wav" 663894 0 1654889596 0
+D c "Serum www.xferrecords.com" s 44100 n 2 l 0:01.881
+D i 32
+F S-Sound.wav 125498 0 1654889596 0
+D a "Chris James" c "s sound vocal" s 44100 n 1
+D l 0:01.422 i 16
+F "Shush 1.wav" 148246 0 1654889596 0
+D s 44100 n 1 l 0:01.680 i 16
+F "Shush 2.wav" 123268 0 1654889596 0
+D s 44100 n 1 l 0:01.397 i 16
+F Squeeky.wav 1208310 0 1654889596 0
+D c Serum s 44100 n 1 l 0:06.849
+D i 32
+F WindChimes.wav 436418 0 1654889596 0
+D a "Steve Duda" c "pitched up 1 octave" s 44100 n 1
+D l 0:04.947 i 16

@@ -1,0 +1,110 @@
+C10018 "D:\!Math Projectors Works II\Media"
+F "01_Genesis_MIXING_ Genesis_voice_MIXING-imported.wav" 62274082 0 1722508671 0
+D y 2024-08-01 s 44100 n 1 l 7:50.698
+D i 24
+F "01_Genesis_MIXING_ Genesis_voice_MIXING.wav" 62274082 0 1722507912 0
+D y 2024-08-01 s 44100 n 1 l 7:50.698
+D i 24
+F 01_Genesis_MIXING_Master.wav 62274082 0 1722507715 0
+D y 2024-08-01 s 44100 n 1 l 7:50.698
+D i 24
+F 02-240805_0245.wav 2873490 0 1722815150 0
+D y 2024-08-05 s 48000 n 1 r 0:46.471
+D l 0:19.950 i 24
+F 04-240802_0257-01.wav 646774 0 1722556641 0
+D y 2024-08-02 s 44100 n 1 r 8:45.231
+D l 0:04.883 i 24
+F 04-240802_0257.wav 1685110 0 1722556641 0
+D y 2024-08-02 s 44100 n 1 r 8:29.279
+D l 0:12.732 i 24
+F 04-240802_0258.wav 929398 0 1722556697 0
+D y 2024-08-02 s 44100 n 1 r 8:59.794
+D l 0:07.020 i 24
+F 04-240802_0259.wav 5500534 0 1722556809 0
+D y 2024-08-02 s 44100 n 1 r 9:20.130
+D l 0:41.571 i 24
+F "4 Strings - Remember Me (Extended Mix).mp3" 9760912 0 1597862504 0
+D t "Remember Me" a "4 Strings" y 2017 g Trance
+D d "Extended Mix" p 138 k 8A s 44100
+D n 2 l 4:03.018 i 320k j "mime:image/jpeg type:3 offset:132 length:34664"
+F Am7thEm7thC6sus4Dm7th.mid 1675 0 1722893928 0
+D p 120 n 3 l 0:18.213
+F AmEmGDm.MID 3420 0 1722893922 0
+D p 80 n 3 l 0:18.874
+F AmGD7.mid 771 0 1722893833 0
+D p 120 n 1 l 0:18.340
+F "Armin van Buuren - Ping Pong.mp3" 18440012 0 1597862523 0
+D t "Ping Pong" a "Armin van Buuren" g Trance d "Original Mix"
+D p 131 k 11A s 44100 n 2
+D l 7:39.773 i 320k j "mime:image/jpeg desc:rekordbox type:3 offset:90 length:44182"
+F "Coldplay - Clocks (Claude Daniel Remix).mp3" 9054996 0 1597862546 0
+D t Clocks a Coldplay g "Deep House" d "Claude Daniel Remix"
+D p 120 k 3A s 44100 n 2
+D l 3:46.012 i 320k
+F "Klunsh - Anyway.mp3" 8806941 0 1719521144 0
+D t Anyway a Klunsh y 2018 g "Melodic House & Techno"
+D p 120 k 7A s 44100 n 2
+D l 3:30.045 i 320k j "mime:image/jpg type:3 offset:1595 length:400042"
+F "Kollektiv Turmstrasse - Freiflug (Original Mix).mp3" 18937963 0 1719521161 0
+D t "Freiflug (Original Mix)" a "Kollektiv Turmstrasse" g "Melodic Techno" p 126
+D k 11A s 44100 n 2 l 7:50.381
+D i 320k j "mime:image/jpeg type:3 offset:1666 length:117538"
+F LILIT_GENESIS_1_002_KATE.wav 33591076 0 1722286240 0
+D y 2024-07-29 s 48000 n 1 r 4:59:59.531
+D l 5:47.136 i 16
+F LILIT_ISAIAH_61_002_KATE.wav 30296536 0 1722286240 0
+D y 2024-07-29 s 48000 n 1 r 5:59:59.573
+D l 5:13.088 i 16
+F LILIT_JOHN_1_002_KATE.wav 16317432 0 1722286240 0
+D y 2024-07-29 s 48000 n 1 r 10:59:59.616
+D l 2:48.619 i 16
+F LILIT_PROVERBS_8_002_KATE.wav 33739704 0 1722286240 0
+D y 2024-07-29 s 48000 n 1 r 6:59:59.445
+D l 5:48.672 i 16
+F LILIT_PSALM_148_002_KATE.wav 31279116 0 1722286240 0
+D y 2024-07-29 s 48000 n 1 r 7:59:58.805
+D l 5:23.243 i 16
+F LILIT_PSALM_1_002_KATE.wav 15144940 0 1722286240 0
+D y 2024-07-29 s 48000 n 1 r 8:59:59.189
+D l 2:36.501 i 16
+F LILIT_PSALM_8_002_KATE.wav 26192804 0 1722286240 0
+D y 2024-07-29 s 48000 n 1 r 9:59:58.379
+D l 4:30.677 i 16
+F Lilt_Genesis_1_002.wav 67969906 0 1722298300 0
+D t Lilt_Genesis_1_002 s 48000 n 1 l 7:52.002
+D i 24
+F Lilt_Isaiah_61_002.wav 69884506 0 1722516999 0
+D t Lilt_Isaiah_61_002 s 48000 n 1 l 8:05.298
+D i 24
+F Lilt_John_1_002.wav 57789390 0 1722614131 0
+D t Lilt_John_1_002 s 48000 n 1 l 6:41.304
+D i 24
+F Lilt_Proverbs_8_002-glued.wav 182250 0 1722608345 0
+D t Lilt_Proverbs_8_002 y 2024-08-02 s 48000 n 1
+D r 0:43.251 l 0:01.223 i 24
+F Lilt_Proverbs_8_002.wav 59262164 0 1722607711 0
+D t Lilt_Proverbs_8_002 s 48000 n 1 l 6:51.531
+D i 24
+F Lilt_Psalm_148_002-glued.wav 68177634 0 1722553138 0
+D t Lilt_Psalm_148_002 y 2024-08-02 s 48000 n 1
+D l 7:53.413 i 24
+F Lilt_Psalm_148_002.wav 64950730 0 1722540270 0
+D t Lilt_Psalm_148_002 s 48000 n 1 l 7:31.035
+D i 24
+F "Lilt_Psalm_1_002 - isolated.mp3" 14078954 0 1722688283 0
+D s 44100 n 1 l 5:52.236 i 320k
+F Lilt_Psalm_1_002.wav 50682104 0 1722614134 0
+D t Lilt_Psalm_1_002 s 48000 n 1 l 5:51.948
+D i 24
+F Lilt_Psalm_8_002.wav 56762298 0 1722614134 0
+D t Lilt_Psalm_8_002 s 48000 n 1 l 6:34.171
+D i 24
+F "Pryda - The Escort (Original Mix).mp3" 18030345 0 1719521188 0
+D t "The Escort" a Pryda g Progressive d "Extended Mix"
+D p 126 k 9A s 44100 n 2
+D l 7:25.408 i 320k j "mime:image/jpeg type:3 offset:1699 length:208811"
+F "Third Person, Intara - Exoplanet (Original Mix)_pn.aif" 88039260 0 1719938026 0
+D s 44100 n 2 l 8:18.593 i 16
+F Vstavka_Lilt_John_1_002.wav 22712956 0 1722614127 0
+D t Lilt_John_1_002 s 48000 n 1 l 2:37.717
+D i 24

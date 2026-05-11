@@ -1,0 +1,25 @@
+C10018 "D:\[temp] Other\Dreamscape Ambient Vol.3\Chinchilla Kit 120 E\WAV"
+F "Chinchilla Kit Bass 120 E.wav" 12700978 0 1572782833 0
+D p 120 s 44100 n 2 l 0:48.000
+D i 24
+F "Chinchilla Kit Drums 120 A.wav" 12700978 0 1572782834 0
+D p 120 s 44100 n 2 l 0:48.000
+D i 24
+F "Chinchilla Kit Full Mix 120 E.mp3" 1921637 0 1572782658 0
+D y 2017 p 120 s 44100 n 2
+D l 0:48.040 i 320k
+F "Chinchilla Kit FX 120 E.wav" 12700978 0 1572782833 0
+D p 120 s 44100 n 2 l 0:48.000
+D i 24
+F "Chinchilla Kit Pad 120 E.wav" 12700978 0 1572782832 0
+D p 120 s 44100 n 2 l 0:48.000
+D i 24
+F "Chinchilla Kit Piano 120 E.wav" 12700978 0 1572782831 0
+D p 120 s 44100 n 2 l 0:48.000
+D i 24
+F "Chinchilla Kit Strings 120 E.wav" 12700978 0 1572782827 0
+D p 120 s 44100 n 2 l 0:48.000
+D i 24
+F "Chinchilla Kit Vocal Bed 120 E.wav" 12700978 0 1572782837 0
+D p 120 s 44100 n 2 l 0:48.000
+D i 24

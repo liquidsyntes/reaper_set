@@ -1,0 +1,97 @@
+C10018 "D:\[temp] Other\Disintegrate Cinematic Ambient Loops\Drums Loops"
+F Bipedal_100_Kick.wav 2589066 0 1572781905 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 100 s 44100 n 2 l 0:09.600
+D i 24
+F Bipedal_100_Percussion.wav 2587374 0 1572781469 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 100 s 44100 n 2 l 0:09.600
+D i 24
+F Bipedal_100_Snare.wav 2587534 0 1572781934 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 100 s 44100 n 2 l 0:09.600
+D i 24
+F Celestial_120_Hats.wav 2159142 0 1572781787 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:08.000
+D i 24
+F Celestial_120_MainDrums.wav 2157830 0 1572781804 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:08.000
+D i 24
+F Celestial_120_Toms.wav 2157798 0 1572781765 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:08.000
+D i 24
+F Cryogene_90_Hats.wav 2875756 0 1572781886 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 90 s 44100 n 2 l 0:10.666
+D i 24
+F Cryogene_90_SubKick.wav 2874764 0 1572781810 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 90 s 44100 n 2 l 0:10.666
+D i 24
+F Deception_104_Kick.wav 2488804 0 1572781888 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 103.99998 s 44100 n 2 l 0:09.230
+D i 24
+F Deception_104_Percussion.wav 2490084 0 1572781674 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 103.99998 s 44100 n 2 l 0:09.230
+D i 24
+F Deception_104_TopDrums.wav 2489124 0 1572781871 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 103.99998 s 44100 n 2 l 0:09.230
+D i 24
+F Disintegrate_70_Hats.wav 3694724 0 1572781995 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 70 s 44100 n 2 l 0:13.714
+D i 24
+F Disintegrate_70_Kick.wav 3693216 0 1572781936 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 70 s 44100 n 2 l 0:13.714
+D i 24
+F Disintegrate_70_Percussion.wav 3694820 0 1572782013 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 70 s 44100 n 2 l 0:13.714
+D i 24
+F Furrow_80_Hats.wav 3234044 0 1572781895 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 80 s 44100 n 2 l 0:12.000
+D i 24
+F Furrow_80_Kick.wav 3232692 0 1572781908 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 80 s 44100 n 2 l 0:12.000
+D i 24
+F Hemisphere_120_Kick.wav 4308214 0 1572782012 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:16.000
+D i 24
+F Hemisphere_120_Percussion.wav 4308726 0 1572781988 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 l 0:16.000
+D i 24
+F Hyperreal_120_Hats.wav 4303512 0 1572782004 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 r 0:00.081
+D l 0:16.000 i 24
+F Hyperreal_120_MainDrums.wav 4301752 0 1572781990 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 r 0:00.081
+D l 0:16.000 i 24
+F Hyperreal_120_RevCymbals.wav 4302520 0 1572781997 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 120 s 44100 n 2 r 0:00.081
+D l 0:16.000 i 24
+F OldOrder_88_Hats.wav 2935184 0 1572781854 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 87.999983 s 44100 n 2 r 0:00.081
+D l 0:10.909 i 24
+F OldOrder_88_Kick.wav 2933804 0 1572781845 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 87.999983 s 44100 n 2 r 0:00.081
+D l 0:10.909 i 24
+F OldOrder_88_TopDrums.wav 2933936 0 1572781845 0
+D a ModeAudio y 2016-11-2 c www.modeaudio.com d www.modeaudio.com
+D p 87.999983 s 44100 n 2 r 0:00.081
+D l 0:10.909 i 24

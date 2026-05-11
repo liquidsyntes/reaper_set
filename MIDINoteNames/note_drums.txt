@@ -1,0 +1,25 @@
+# MIDI note/CC name map
+82 China Crush Off
+81 China Crush
+80 Crash Upper Off
+79 Crash Upper 
+78 Crash Off
+77 Crash
+75 Stick
+74 Cowb
+73 Cowb Bell
+70 Tom Floor Hook2
+69 Tom Floor
+68 Tom Tom L2
+67 Tom Tom R2
+66 Tom Tom L1
+65 Tom Tom R1
+49 High-Hat Press
+48 High-Hat Pedal
+46 Ride
+45 Cymbal
+44 Stick Dry
+41 Snare String
+38 Snare Center
+37 Snare Main
+36 Kick

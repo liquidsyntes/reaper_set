@@ -1,0 +1,42 @@
+C10018 "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog"
+F AlphaNz.wav 331170 0 1654889594 0
+D s 44100 n 1 l 0:03.754 i 16
+F "ARP circuit.wav" 158580 0 1654889594 0
+D s 44100 n 1 l 0:01.797 i 16
+F "ARP pink.wav" 270726 0 1654889594 0
+D s 44100 n 1 l 0:03.069 i 16
+F "ARP white.wav" 143316 0 1654889594 0
+D s 44100 n 1 l 0:01.624 i 16
+F BrightWhite.wav 137186 0 1654889594 0
+D a "Steve Duda" s 44100 n 1 l 0:01.555
+D i 16
+F "J 60.wav" 100454 0 1654889594 0
+D a "David Alexander" c "Juno 60 Noise" s 44100 n 1
+D l 0:01.138 i 16
+F "J106 Chorus.wav" 189556 0 1654889594 0
+D a "David Alexander" c "Juno 106 Noise with Chorus" s 44100 n 1
+D l 0:02.148 i 16
+F "J106 HP.wav" 158826 0 1654889594 0
+D a "David Alexander" c "Roland Juno 106 " s 44100 n 1
+D l 0:01.800 i 16
+F "J106 HP_Cho.wav" 148594 0 1654889594 0
+D a "David Alexander" c "Roland Juno 106 w/ Chorus" s 44100 n 1
+D l 0:01.683 i 16
+F J106.wav 104552 0 1654889594 0
+D a "David Alexander" c "Juno 106 Noise" s 44100 n 1
+D l 0:01.184 i 16
+F "MicrKrg Noise.wav" 159348 0 1654889594 0
+D a "David Alexander" c "Micro Korg Noise Generator" s 44100 n 1
+D l 0:01.805 i 16
+F OrganNoise.wav 157476 0 1654889594 0
+D s 44100 n 1 l 0:01.785 i 16
+F "SH1 Noise.wav" 176230 0 1654889594 0
+D a "David Alexander" c "Strobe Noise" s 44100 n 1
+D l 0:01.997 i 16
+F "SID drone.wav" 51204 0 1654889594 0
+D s 44100 n 1 l 0:00.580 i 16
+F "SID noise.wav" 237244 0 1654889594 0
+D a "Steve Duda" c "Sidstation Noise" s 44100 n 1
+D l 0:02.689 i 16
+F "SID whine.wav" 51038 0 1654889594 0
+D s 44100 n 1 l 0:00.578 i 16

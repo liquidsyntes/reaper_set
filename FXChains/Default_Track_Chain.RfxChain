@@ -1,0 +1,8 @@
+BYPASS 0 0
+<JS "ZenoMOD/zenomod_VU Meter (ZenoMOD).jsfx" ""
+  5 0 -7 0 45 0.006 0 1 0 1 0 0 0 - - - - - - -20 -20 0 0 -20 -20 -3.6 -3.6 - - - - - - - - - - - - 3 1 1 0 1 0.1 0 12 - - 0 - - - - - - - - - - - - - 1 "VU metter - Default"
+>
+JS_DIMS 974 539
+FXID {47B95AE0-AE45-4214-B438-5494EA8A9A01}
+PRESETNAME "VU metter - Default"
+WAK 0 1

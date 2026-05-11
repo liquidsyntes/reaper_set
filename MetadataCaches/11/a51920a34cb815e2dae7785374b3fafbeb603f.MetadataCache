@@ -1,0 +1,16 @@
+C10018 "D:\[reaper] Content Folder\[rp] Master Template Projects\4\Media"
+F "Billie Eilish - Everything I Wanted (Rauschhaus Edit).mp3" 17035434 0 1669198913 0
+D t "Everything I Wanted (Rauschhaus Edit)" a "Billie Eilish" y 2020 g "Melodic House"
+D d "Rauschhaus Edit" p 122 k 11A s 44100
+D n 2 l 7:04.980 i 320k j "mime:image/jpeg type:3 offset:1783 length:30925"
+F "Boris Brejcha - Future.mp3" 17454990 0 1680118095 0
+D t Future a "Boris Brejcha" g "Minimal Tech" p 125
+D k 5A s 44100 n 2 l 7:12.000
+D i 320k j "mime:image/jpeg type:3 offset:146 length:170007"
+F "Joachim Heinrich - Stjärna.mp3" 7159936 0 1653538661 0
+D t Stjärna a "Joachim Heinrich" g Эмбиент s 48000
+D n 2 l 2:58.861 i 320k
+F "Tell Me Why - MEDUZA Remix - Supermode.flac" 37598861 0 1682697664 0
+D t " Tell Me Why - MEDUZA Remix" a "Supermode, MEDUZA" b "Tell Me Why (MEDUZA Remix)" y 2022
+D s 48000 n 2 l 2:51.445 i 24
+D m " 1"

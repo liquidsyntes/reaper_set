@@ -1,0 +1,113 @@
+C10018 "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc"
+F "Claps LR 1.wav" 318912 0 1654889596 0
+D s 44100 n 2 l 0:00.904 i 32
+F "Claps LR 2.wav" 423904 0 1654889596 0
+D s 44100 n 2 l 0:01.201 i 32
+F "elastic 1.wav" 65536 0 1654889596 0
+D s 44100 n 1 l 0:00.037 i 16
+F "elastic 2.wav" 65536 0 1654889596 0
+D s 44100 n 1 l 0:00.016 i 16
+F "GlassLid 1.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.155 i 16
+F "GlassLid 2.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.026 i 16
+F "GlassLid 3.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.026 i 16
+F "GlassLid 4.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.278 i 16
+F "GlassLid 5.wav" 157668 0 1654889596 0
+D s 44100 n 2 l 0:00.894 i 16
+F "gtr mute 1.wav" 65536 0 1654889596 0
+D s 44100 n 1 l 0:00.036 i 16
+F "gtr mute 2.wav" 65536 0 1654889596 0
+D s 44100 n 1 l 0:00.059 i 16
+F "guitarsmack 1.wav" 65536 0 1654889596 0
+D s 44100 n 1 l 0:00.041 i 16
+F "guitarsmack 2.wav" 65536 0 1654889596 0
+D s 44100 n 1 l 0:00.017 i 16
+F "icon_hat a.wav" 117468 0 1654889596 0
+D s 44100 n 2 l 0:00.666 i 16
+F "icon_hat b.wav" 108588 0 1654889596 0
+D s 44100 n 2 l 0:00.615 i 16
+F "icon_kick a.wav" 404012 0 1654889596 0
+D s 44100 n 2 l 0:02.290 i 16
+F "icon_kick b.wav" 254736 0 1654889596 0
+D s 44100 n 2 l 0:01.444 i 16
+F "icon_kick c.wav" 177692 0 1654889596 0
+D s 44100 n 2 l 0:01.007 i 16
+F "icon_kick d.wav" 293804 0 1654889596 0
+D s 44100 n 2 l 0:01.665 i 16
+F "icon_snare b.wav" 522284 0 1654889596 0
+D s 44100 n 2 l 0:02.961 i 16
+F "icon_snare rim.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.104 i 16
+F "icon_snare_rim b.wav" 531830 0 1654889596 0
+D y 2013-10-21 s 44100 n 2 r 2:34.193
+D l 0:02.980 i 16
+F "icon_tom fl.wav" 268844 0 1654889596 0
+D s 44100 n 2 l 0:01.524 i 16
+F "kick trans 1.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.029 i 16
+F "kick trans 2.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.161 i 16
+F "kick trans 3.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.090 i 16
+F "kick trans 4.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.033 i 16
+F "kick trans 5.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.032 i 16
+F "kick trans 6.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.264 i 16
+F "Kick XF Small 1.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.133 i 16
+F "Kick XF Small 2.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.032 i 16
+F "Kick XF Small 3.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.027 i 16
+F "Kick XF Small 4.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.061 i 16
+F "Kick XF Small 5.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.052 i 16
+F "metal tick 1.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.129 i 16
+F "metal tick 2.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.103 i 16
+F "shaker oats 1.wav" 44682 0 1654889596 0
+D y 2013-10-21 s 44100 n 2 r 8:08.558
+D l 0:00.240 i 16
+F "shaker oats 2.wav" 30810 0 1654889596 0
+D y 2013-10-21 s 44100 n 2 r 8:03.227
+D l 0:00.162 i 16
+F "shaker rice.wav" 93274 0 1654889596 0
+D y 2013-10-21 s 44100 n 2 r 7:47.280
+D l 0:00.514 i 16
+F "snap 1.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.182 i 16
+F "snap 2.wav" 65536 0 1654889596 0
+D s 44100 n 2 l 0:00.075 i 16
+F Strum1.aif 11124 0 1654889596 0
+D s 44100 n 2 l 0:00.031 i 32
+F Strum2.aif 13876 0 1654889596 0
+D s 44100 n 2 l 0:00.039 i 32
+F Strum3.aif 13876 0 1654889596 0
+D s 44100 n 2 l 0:00.039 i 32
+F TransPerc1.wav 62448 0 1654889596 0
+D s 44100 n 2 l 0:00.177 i 32
+F TransPerc2.wav 38880 0 1654889596 0
+D s 44100 n 2 l 0:00.110 i 32
+F TransPerc3.wav 62432 0 1654889596 0
+D s 44100 n 2 l 0:00.177 i 32
+F XF_HatSlice1.aif 36484 0 1654889596 0
+D s 44100 n 2 l 0:00.103 i 32
+F XF_HatSlice2.aif 44820 0 1654889596 0
+D s 44100 n 2 l 0:00.127 i 32
+F XF_HatSlice3.aif 44772 0 1654889596 0
+D s 44100 n 2 l 0:00.127 i 32
+F XF_HatSlice4.aif 44772 0 1654889596 0
+D s 44100 n 2 l 0:00.127 i 32
+F XF_Slice_1.aif 44716 0 1654889596 0
+D s 44100 n 2 l 0:00.126 i 32
+F XF_Slice_2.aif 80436 0 1654889596 0
+D s 44100 n 2 l 0:00.228 i 32
+F XF_Slice_3.aif 87692 0 1654889596 0
+D s 44100 n 2 l 0:00.248 i 32

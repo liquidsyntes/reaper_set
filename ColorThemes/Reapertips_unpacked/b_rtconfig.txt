@@ -1,0 +1,56 @@
+
+;   ----------------------------
+;   Модификация от Liquid Team   
+;   ----------------------------
+  
+
+#>----------------------------------- GLOBALS -----------------------------------------
+version 7.19
+use_pngs 1
+use_overlays 1
+
+
+#>----------------------------------- SETINGS -----------------------------------------
+
+  clear tcp.*
+  set tcp.fx    [5   5  20  20 0 0 0 0]
+  set tcp.phase [25  5  20  20 0 0 0 0]
+  set tcp.mute  [55  5  20  20 0 0 0 0]
+  set tcp.solo  [75  5  20  20 0 0 0 0]
+  set tcp.recarm h<49 w<=330 [0] [64 3 20 20 .25 0 .25 0] [2 24 20 20 0 0 0 0]
+
+; meter, recmon, recmode row
+; set tcp.meter h>=66 [66 46 188 20 0 0 1 0] [0]
+: set tcp.recmon h>=66 [24 47 20 20 0 0 0 0] [0]
+: set tcp.recmode h>=66 [44 47 20 20 0 0 0 0] [0]
+
+; vol/pan labels
+; rect vollabel_row1 w>650 [23 7 36 13 1 0 1 0] [0]
+; rect panlabel_row1 w>650 [62 7 30 13 1 0 1 0] [0]
+; set tcp.volume.label h<49 vollabel_row1 w<230 [0] [185 28 36 13 1 0 1 0]
+; set tcp.pan.label h<49 panlabel_row1 w<230 [0] [225 28 30 13 1 0 1 0]
+
+; pan fader
+; rect pan_row1 w>500 w>650 [90 3 -67 20 .65 0 1 0] [90 3 2 20 .75 0 1 0] [0]
+; set tcp.pan w<230 [0] h<49 pan_row1 [131 24 51 20 0.75 0 1 0]
+
+; vol fader
+; rect vol_row1 w>330 w>500 [85 3 5 20 0.25 0 .75 0] [85 3 7 20 0.25 0 1 0] [0]
+; rect vol_row1 w>650 [85 3 5 20 0.25 0 .65 0] vol_row1
+; set tcp.volume h<49 vol_row1 w<230 [22 24 233 20 0 0 1 0] [22 24 109 20 0 0 0.750]
+
+; track name label
+; rect label_small w<100 [26 3 226 15 0 0 1 0] [26 3 182 15 0 0 1 0]
+; rect label_2row w<230 label_small [26 3 68 15 0 0 1 0]
+; set tcp.label h>=49 label_2row w<=330 label_2row [26 3 38 15 0 0 .25 0]
+; recarm button
+; set tcp.recarm h<49 w<=330 [0] [64 3 20 20 .25 0 .25 0] [2 24 20 20 0 0 0 0]
+
+; other buttons
+; set tcp.folder w<230 [0] [98 3 20 20 1 0 1 0]
+; set tcp.io w<230 [0] [118 3 20 20 1 0 1 0]
+; set tcp.env w<230 [0] [138 3 20 20 1 0 1 0]
+; set tcp.fx w<230 [0] [158 3 20 20 1 0 1 0]
+; set tcp.fxbyp w<230 [0] [178 3 14 20 1 0 1 0]
+; set tcp.phase w<230 [0] [192 3 20 20 1 0 1 0]
+; set tcp.mute w<100 [0] [212 3 20 20 1 0 1 0]

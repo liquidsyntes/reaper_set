@@ -1,0 +1,78 @@
+C10018 "D:\[reaper] Content Folder\[rp] Master Template Projects\Media"
+F "80s Synth Intro Atmosphere.mp3" 1560908 0 1679159992 0
+D t "80s Synth Intro Atmosphere" a Antracto b "80s Synth Intro Atmosphere" y 2023
+D g Electronic s 44100 n 2 l 0:39.028
+D i 320k
+F ADDrop-imported-001.wav 821036 0 1723185424 0
+D s 48000 n 2 l 0:02.851 i 24
+F ADDrop-imported-002.wav 4320044 0 1723185487 0
+D s 48000 n 2 l 0:15.000 i 24
+F ADDrop-imported.wav 4320044 0 1723185382 0
+D s 48000 n 2 l 0:15.000 i 24
+F "Announcer Subway Train Doors Opening Closing Station Distant 1.wav" 846138 0 1660060986 0
+D y 2022-08-09 s 44100 n 2 r 2:10:40.477
+D l 0:04.791 i 16
+F "Artaria, Modeplex - Keia_pn.aif" 74336646 0 1719938045 0
+D s 44100 n 2 l 7:01.010 i 16
+F "ARTBAT, Shall Ocin, Braev - Origin_pn.aif" 81263580 0 1719938034 0
+D s 44100 n 2 l 7:40.266 i 16
+F "Billie Eilish - Everything I Wanted (Rauschhaus Edit)_pn.aif" 75000288 0 1719938019 0
+D s 44100 n 2 l 7:04.980 i 16
+F "Chvrches - Tether (Eric Prydz Remix)_pn.aif" 56331440 0 1719938034 0
+D s 44100 n 2 l 5:19.028 i 16
+F "Cirez D - The Glitch (Original Mix)_pn.aif" 98622874 0 1719938019 0
+D s 44100 n 2 l 9:18.301 i 16
+F "Con Tacto - Radha_pn.aif" 73465554 0 1719938018 0
+D s 44100 n 2 l 6:55.994 i 16
+F "Cyberpunk - Dark Wave Industrial  Music.mp3" 80088963 0 1734687091 0
+D s 44100 n 2 l 55:36.963 i 192k
+F "Dimitri Vegas & Like Mike - Cafe Del Mar_pn.aif" 37465026 0 1719938017 0
+D s 44100 n 2 l 3:31.769 i 16
+F "Dino Lenny  - Shoot Me To The Sky (Instrumental Version)_pn.aif" 105073314 0 1719938045 0
+D s 44100 n 2 l 9:55.273 i 16
+F "Jiggler - Stairs (Original Mix)_pn.aif" 69178788 0 1719938024 0
+D s 44100 n 2 l 6:31.909 i 16
+F "Klunsh - Anyway_pn.aif" 37454604 0 1719938017 0
+D s 44100 n 2 l 3:30.045 i 16
+F "Kollektiv Turmstrasse - Freiflug (Original Mix)_pn.aif" 83095500 0 1719938044 0
+D s 44100 n 2 l 7:50.381 i 16
+F "Liquid Synthez - Zaeblo (продолжение)-склеено.wav" 43510840 0 1775468493 0
+D t "Liquid Synthez" a "Zaeblo (продолжение)" y 2026-04-06 s 48000
+D n 2 l 3:46.599 i 16
+F "Liquid Synthez feat. AI - Зеркало Времени.mp3" 5757352 0 1777547853 0
+D t "Зеркало Времени" a "Liquid Synthez feat. AI" p 74 s 48000
+D n 2 l 4:11.999 i 182k j "mime:image/jpg offset:262 length:5617"
+F "MARK TRANSCKRIPT_RU_KATE.wav" 30735864 0 1734441827 0
+D y 2024-12-17 s 48000 n 1 r 10:19:05.259
+D l 3:32.309 i 24
+F Mark_Transcript_002.RU.wav 46891154 0 1734618589 0
+D t 15.12 s 48000 n 1 r 23:41.419
+D l 5:25.621 i 24
+F "REAPER_Clean_Template_stems_Addictive Trigger - Snare.wav" 35232744 0 1724513439 0
+D y 2024-08-24 s 48000 n 1 l 3:03.500
+D i 32
+F "REAPER_Clean_Template_stems_Easy Drum Set.wav" 384744 0 1723484245 0
+D y 2024-08-12 s 48000 n 1 l 0:02.000
+D i 32
+F "Shattered Heart.mp3" 7412495 0 1776943384 0
+D t "Shattered Heart" a liquidsynthez s 48000 n 2
+D l 5:05.719 i 193k j "mime:image/jpeg offset:7217 length:9902"
+F "Sierra - All Or Nothing_pn.aif" 43400156 0 1719938037 0
+D s 44100 n 2 l 4:05.624 i 16
+F "Sierra - Control_pn.aif" 47778502 0 1719938023 0
+D s 44100 n 2 l 4:28.820 i 16
+F "Steampunk Weapons Steamer Reload.wav" 402206 0 1588587428 0
+D d "soundmorph, designed, weapon, gun, steampunk, weapons, foley, contraption, sci-fi, reload" s 44100 n 2 l 0:02.270
+D i 16
+F "THE ROYAL PRIESTHOOD_RU_KATE.wav" 28265264 0 1734441806 0
+D y 2024-12-17 s 48000 n 1 r 10:05:02.848
+D l 3:15.243 i 24
+F "The Temper Trap - Sweet Disposition (John Summit & Silver Panda Extended Remix)_pn.aif" 62152472 0 1719938026 0
+D s 44100 n 2 l 5:44.784 i 16
+F The_Royal_Priesthood_002.RU.wav 39137060 0 1734617752 0
+D t 15.12 s 48000 n 1 r 5:30.347
+D l 4:31.773 i 24
+F "Tom Staar, Trace - East Soul_pn.aif" 35034452 0 1719938035 0
+D s 44100 n 2 l 3:18.133 i 16
+F zaeblo.mp3 9057174 0 1773146822 0
+D s 44100 n 2 l 3:46.353 i 320k

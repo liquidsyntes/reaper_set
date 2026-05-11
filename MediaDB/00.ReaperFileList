@@ -1,0 +1,1246 @@
+PATH "C:\Users\Liquid\Documents"
+FILE "C:\Users\Liquid\Documents\Addictive Drums 2\00100\Settings\AD2Beat.mid" 4709 0 1724513202 0
+DATA "t:Loud Song 04 (All)" n:1 l:1:28.501
+FILE "C:\Users\Liquid\Documents\Addictive Drums 2\00100\Settings\ADDrop.wav" 4320044 0 1724513179 0
+DATA s:48000 n:2 l:0:15.000 i:24
+FILE "C:\Users\Liquid\Documents\Addictive Trigger\00100\Settings\Addictive Trigger - Kick.mid" 175 0 1723826493 0
+DATA "t:Addictive Trigger - Kick" n:1 l:0:46.859
+FILE "C:\Users\Liquid\Documents\Addictive Trigger\00100\Settings\Addictive Trigger - Merged.mid" 407 0 1720432879 0
+DATA "t:Addictive Trigger - Merged" n:1 l:0:22.308
+FILE "C:\Users\Liquid\Documents\Addictive Trigger\00100\Settings\Addictive Trigger - Snare.mid" 1465 0 1724512918 0
+DATA "t:Addictive Trigger - Snare" n:1 l:0:53.744
+FILE "C:\Users\Liquid\Documents\Addictive Trigger\00100\Settings\Addictive Trigger - Tom3.mid" 1303 0 1723826578 0
+DATA "t:Addictive Trigger - Tom3" n:1 l:1:46.963
+FILE "C:\Users\Liquid\Documents\Adobe\Adobe Media Encoder\24.0\AMEPrefs.xml" 4361 0 1727951348 0
+FILE "C:\Users\Liquid\Documents\Adobe\Adobe Media Encoder\24.0\AppPrefs.xml" 691 0 1727951348 0
+FILE "C:\Users\Liquid\Documents\Adobe\Adobe Media Encoder\24.0\batch.xml" 141 0 1727951348 0
+FILE "C:\Users\Liquid\Documents\Adobe\Adobe Media Encoder\24.0\PresetCache.xml" 322379 0 1727951348 0
+FILE "C:\Users\Liquid\Documents\Adobe\Adobe Media Encoder\24.0\Presets\PresetTree.xml" 818585 0 1727951348 0
+FILE "C:\Users\Liquid\Documents\Adobe\Adobe Media Encoder\24.0\PresetUserCache.xml" 217 0 1727951348 0
+FILE "C:\Users\Liquid\Documents\Adobe\Adobe Media Encoder\24.0\SavedWorkspaces\UserWorkspace.xml" 13764 0 1727951348 0
+FILE "C:\Users\Liquid\Documents\Adobe\Adobe Media Encoder\24.0\Watch Folder Info.xml" 82 0 1727951348 0
+FILE "C:\Users\Liquid\Documents\Adobe\Premiere Pro\24.0\Extension Config.xml" 218 0 1719575436 0
+FILE "C:\Users\Liquid\Documents\Adobe\Premiere Pro\24.0\Profile-Liquid\Layouts\UserWorkspace.xml" 581138 0 1728062309 0
+FILE "C:\Users\Liquid\Documents\Adobe\Premiere Pro\24.0\Profile-Liquid\LayoutsWorkspaceConfig.xml" 2867 0 1728062309 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\autosave0\checkpoint.dat" 1048576 0 1724285216 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\autosave1\checkpoint.dat" 1048576 0 1724285337 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\autosave2\checkpoint.dat" 1048576 0 1724285580 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\autosave3\checkpoint.dat" 1048576 0 1724285829 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\autosave4\checkpoint.dat" 1048576 0 1724286860 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\autosave5\checkpoint.dat" 1048576 0 1724376850 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\autosave6\checkpoint.dat" 1048576 0 1724377521 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\autosave7\checkpoint.dat" 1048576 0 1724377773 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\autosave8\checkpoint.dat" 1048576 0 1724378295 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\autosave9\checkpoint.dat" 1048576 0 1726500570 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\manualsave0\checkpoint.dat" 1048576 0 1723762572 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\manualsave1\checkpoint.dat" 1048576 0 1723762872 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\manualsave2\checkpoint.dat" 1048576 0 1723763027 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\manualsave3\checkpoint.dat" 1048576 0 1723766453 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\manualsave4\checkpoint.dat" 1048576 0 1724109536 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\manualsave5\checkpoint.dat" 1048576 0 1724112014 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\manualsave6\checkpoint.dat" 1048576 0 1724112559 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\manualsave7\checkpoint.dat" 1048576 0 1724192694 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\manualsave8\checkpoint.dat" 1048576 0 1724192984 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\manualsave9\checkpoint.dat" 1048576 0 1724261397 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\profile\profile.dat" 196608 0 1724260894 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\quicksave0\checkpoint.dat" 1048576 0 1724497607 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\quicksave1\checkpoint.dat" 1048576 0 1725982244 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\quicksave2\checkpoint.dat" 1048576 0 1725982247 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\quicksave3\checkpoint.dat" 1048576 0 1726500022 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\quicksave4\checkpoint.dat" 1048576 0 1724378046 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\quicksave5\checkpoint.dat" 1048576 0 1724378048 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\quicksave6\checkpoint.dat" 1048576 0 1724378242 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\quicksave7\checkpoint.dat" 1048576 0 1724378244 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\quicksave8\checkpoint.dat" 1048576 0 1724378346 0
+FILE "C:\Users\Liquid\Documents\Horizon Zero Dawn\Saved Game\quicksave9\checkpoint.dat" 1048576 0 1724497604 0
+FILE "C:\Users\Liquid\Documents\iZotope\Nectar\User Presets\Global Presets\Kate Bibl.xml" 6727 0 1722059915 0
+FILE "C:\Users\Liquid\Documents\My Games\NieR_Automata\GameData.dat" 1128 0 1722665058 0
+FILE "C:\Users\Liquid\Documents\My Games\NieR_Automata\SlotData_0.dat" 235980 0 1720100661 0
+FILE "C:\Users\Liquid\Documents\My Games\NieR_Automata\SlotData_1.dat" 235980 0 1722665057 0
+FILE "C:\Users\Liquid\Documents\My Games\NieR_Automata\SystemData.dat" 72 0 1720346561 0
+FILE "C:\Users\Liquid\Documents\REAPER Media\bible.rpp" 95673 0 1716634141 0
+DATA p:120 n:2 l:6:18.626
+FILE "C:\Users\Liquid\Documents\REAPER Media\Easy Breezy ⧸ Eurobeat Remix-gEa8S-uv3aU-склеено.wav" 75679224 0 1716826563 0
+DATA y:2024-05-27 s:48000 n:2 r:1:10.000
+DATA l:3:17.079 i:32
+FILE "C:\Users\Liquid\Documents\REAPER Media\Media\01-Student-240526_1203.wav" 228906 0 1716714203 0
+DATA y:2024-05-26 s:48000 n:1 r:1:26.683
+DATA l:0:01.585 i:24
+FILE "C:\Users\Liquid\Documents\REAPER Media\reaper_stems_How_to_Read_the_Bible-_The_Gospel_002_part2.wav" 79630096 0 1716751329 0
+DATA y:2024-05-26 s:48000 n:1 l:6:54.736
+DATA i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\AlphaNz.wav" 331170 0 1654889594 0
+DATA s:44100 n:1 l:0:03.754 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\ARP circuit.wav" 158580 0 1654889594 0
+DATA s:44100 n:1 l:0:01.797 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\ARP pink.wav" 270726 0 1654889594 0
+DATA s:44100 n:1 l:0:03.069 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\ARP white.wav" 143316 0 1654889594 0
+DATA s:44100 n:1 l:0:01.624 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\BrightWhite.wav" 137186 0 1654889594 0
+DATA "a:Steve Duda" s:44100 n:1 l:0:01.555
+DATA i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\J 60.wav" 100454 0 1654889594 0
+DATA "a:David Alexander" "c:Juno 60 Noise" s:44100 n:1
+DATA l:0:01.138 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\J106 Chorus.wav" 189556 0 1654889594 0
+DATA "a:David Alexander" "c:Juno 106 Noise with Chorus" s:44100 n:1
+DATA l:0:02.148 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\J106 HP.wav" 158826 0 1654889594 0
+DATA "a:David Alexander" "c:Roland Juno 106 " s:44100 n:1
+DATA l:0:01.800 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\J106 HP_Cho.wav" 148594 0 1654889594 0
+DATA "a:David Alexander" "c:Roland Juno 106 w/ Chorus" s:44100 n:1
+DATA l:0:01.683 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\J106.wav" 104552 0 1654889594 0
+DATA "a:David Alexander" "c:Juno 106 Noise" s:44100 n:1
+DATA l:0:01.184 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\MicrKrg Noise.wav" 159348 0 1654889594 0
+DATA "a:David Alexander" "c:Micro Korg Noise Generator" s:44100 n:1
+DATA l:0:01.805 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\OrganNoise.wav" 157476 0 1654889594 0
+DATA s:44100 n:1 l:0:01.785 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\SH1 Noise.wav" 176230 0 1654889594 0
+DATA "a:David Alexander" "c:Strobe Noise" s:44100 n:1
+DATA l:0:01.997 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\SID drone.wav" 51204 0 1654889594 0
+DATA s:44100 n:1 l:0:00.580 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\SID noise.wav" 237244 0 1654889594 0
+DATA "a:Steve Duda" "c:Sidstation Noise" s:44100 n:1
+DATA l:0:02.689 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Analog\SID whine.wav" 51038 0 1654889594 0
+DATA s:44100 n:1 l:0:00.578 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_01.wav" 1758 0 1654889594 0
+DATA s:44100 n:1 l:0:00.019 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_02.wav" 482 0 1654889594 0
+DATA s:44100 n:1 l:0:00.005 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_03.wav" 1070 0 1654889594 0
+DATA s:44100 n:1 l:0:00.012 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_04.wav" 1152 0 1654889594 0
+DATA s:44100 n:1 l:0:00.013 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_05.wav" 1132 0 1654889594 0
+DATA s:44100 n:1 l:0:00.012 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_06.wav" 226 0 1654889594 0
+DATA s:44100 n:1 l:0:00.002 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_07.wav" 1236 0 1654889594 0
+DATA s:44100 n:1 l:0:00.013 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_08.wav" 630 0 1654889594 0
+DATA s:44100 n:1 l:0:00.007 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_09.wav" 574 0 1654889594 0
+DATA s:44100 n:1 l:0:00.006 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_10.wav" 1238 0 1654889594 0
+DATA s:44100 n:1 l:0:00.014 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_11.wav" 1296 0 1654889594 0
+DATA s:44100 n:1 l:0:00.014 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_12.wav" 552 0 1654889594 0
+DATA s:44100 n:1 l:0:00.003 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_13.wav" 966 0 1654889594 0
+DATA s:44100 n:1 l:0:00.010 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_14.wav" 498 0 1654889594 0
+DATA s:44100 n:1 l:0:00.005 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_15.wav" 2074 0 1654889594 0
+DATA s:44100 n:1 l:0:00.011 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_16.wav" 1168 0 1654889594 0
+DATA s:44100 n:1 l:0:00.013 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_17.wav" 1018 0 1654889594 0
+DATA s:44100 n:1 l:0:00.011 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_18.wav" 946 0 1654889594 0
+DATA s:44100 n:1 l:0:00.010 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_19.wav" 1502 0 1654889594 0
+DATA s:44100 n:1 l:0:00.017 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_20.wav" 306 0 1654889594 0
+DATA s:44100 n:1 l:0:00.003 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_21.wav" 1584 0 1654889594 0
+DATA s:44100 n:1 l:0:00.017 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_22.wav" 2288 0 1654889594 0
+DATA s:44100 n:1 l:0:00.025 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_23.wav" 982 0 1654889594 0
+DATA s:44100 n:1 l:0:00.011 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_24.wav" 1664 0 1654889594 0
+DATA s:44100 n:1 l:0:00.018 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_25.wav" 2556 0 1654889594 0
+DATA s:44100 n:1 l:0:00.028 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_26.wav" 306 0 1654889594 0
+DATA s:44100 n:1 l:0:00.003 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_27.wav" 1824 0 1654889594 0
+DATA s:44100 n:1 l:0:00.020 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_28.wav" 2070 0 1654889594 0
+DATA s:44100 n:1 l:0:00.023 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_29.wav" 2310 0 1654889594 0
+DATA s:44100 n:1 l:0:00.026 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_30.wav" 5358 0 1654889594 0
+DATA s:44100 n:1 l:0:00.030 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_31.wav" 4176 0 1654889594 0
+DATA s:44100 n:1 l:0:00.023 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_32.wav" 3030 0 1654889594 0
+DATA s:44100 n:1 l:0:00.017 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_33.wav" 1078 0 1654889594 0
+DATA s:44100 n:1 l:0:00.012 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_34.wav" 4116 0 1654889594 0
+DATA s:44100 n:1 l:0:00.046 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_35.wav" 866 0 1654889594 0
+DATA s:44100 n:1 l:0:00.009 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_36.wav" 2362 0 1654889594 0
+DATA s:44100 n:1 l:0:00.026 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_37.wav" 394 0 1654889594 0
+DATA s:44100 n:1 l:0:00.004 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_38.wav" 458 0 1654889594 0
+DATA s:44100 n:1 l:0:00.005 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_39.wav" 166 0 1654889594 0
+DATA s:44100 n:1 l:0:00.001 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_40.wav" 2692 0 1654889594 0
+DATA s:44100 n:2 l:0:00.015 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_41.wav" 1740 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.000
+DATA l:0:00.002 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_42.wav" 1962 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.002
+DATA l:0:00.004 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_43.wav" 1990 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.006
+DATA l:0:00.004 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_44.wav" 1946 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.010
+DATA l:0:00.004 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_45.wav" 2100 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.014
+DATA l:0:00.006 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_46.wav" 1958 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.020
+DATA l:0:00.004 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_47.wav" 2054 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.024
+DATA l:0:00.005 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_48.wav" 1784 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.029
+DATA l:0:00.002 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_49.wav" 1840 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.031
+DATA l:0:00.003 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_50.wav" 2170 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.034
+DATA l:0:00.006 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_51.wav" 1904 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.040
+DATA l:0:00.003 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_52.wav" 1862 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.044
+DATA l:0:00.003 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_53.wav" 1944 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.059
+DATA l:0:00.004 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_54.wav" 2436 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.063
+DATA l:0:00.009 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_55.wav" 2528 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.072
+DATA l:0:00.010 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_56.wav" 2008 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.083
+DATA l:0:00.005 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_57.wav" 2084 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.087
+DATA l:0:00.005 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_58.wav" 2498 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.093
+DATA l:0:00.010 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_59.wav" 2580 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.103
+DATA l:0:00.011 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_60.wav" 2636 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.114
+DATA l:0:00.012 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_61.wav" 2268 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.125
+DATA l:0:00.008 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_62.wav" 2304 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.133
+DATA l:0:00.008 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_63.wav" 1956 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.141
+DATA l:0:00.004 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Kick\XF_KikAtk_64.wav" 3320 0 1654889596 0
+DATA y:2014-07-1 s:44100 n:1 r:1:00:00.145
+DATA l:0:00.019 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\Claps LR 1.wav" 318912 0 1654889596 0
+DATA s:44100 n:2 l:0:00.904 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\Claps LR 2.wav" 423904 0 1654889596 0
+DATA s:44100 n:2 l:0:01.201 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\elastic 1.wav" 65536 0 1654889596 0
+DATA s:44100 n:1 l:0:00.037 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\elastic 2.wav" 65536 0 1654889596 0
+DATA s:44100 n:1 l:0:00.016 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\GlassLid 1.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.155 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\GlassLid 2.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.026 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\GlassLid 3.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.026 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\GlassLid 4.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.278 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\GlassLid 5.wav" 157668 0 1654889596 0
+DATA s:44100 n:2 l:0:00.894 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\gtr mute 1.wav" 65536 0 1654889596 0
+DATA s:44100 n:1 l:0:00.036 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\gtr mute 2.wav" 65536 0 1654889596 0
+DATA s:44100 n:1 l:0:00.059 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\guitarsmack 1.wav" 65536 0 1654889596 0
+DATA s:44100 n:1 l:0:00.041 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\guitarsmack 2.wav" 65536 0 1654889596 0
+DATA s:44100 n:1 l:0:00.017 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\icon_hat a.wav" 117468 0 1654889596 0
+DATA s:44100 n:2 l:0:00.666 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\icon_hat b.wav" 108588 0 1654889596 0
+DATA s:44100 n:2 l:0:00.615 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\icon_kick a.wav" 404012 0 1654889596 0
+DATA s:44100 n:2 l:0:02.290 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\icon_kick b.wav" 254736 0 1654889596 0
+DATA s:44100 n:2 l:0:01.444 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\icon_kick c.wav" 177692 0 1654889596 0
+DATA s:44100 n:2 l:0:01.007 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\icon_kick d.wav" 293804 0 1654889596 0
+DATA s:44100 n:2 l:0:01.665 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\icon_snare b.wav" 522284 0 1654889596 0
+DATA s:44100 n:2 l:0:02.961 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\icon_snare rim.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.104 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\icon_snare_rim b.wav" 531830 0 1654889596 0
+DATA y:2013-10-21 s:44100 n:2 r:2:34.193
+DATA l:0:02.980 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\icon_tom fl.wav" 268844 0 1654889596 0
+DATA s:44100 n:2 l:0:01.524 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\kick trans 1.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.029 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\kick trans 2.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.161 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\kick trans 3.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.090 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\kick trans 4.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.033 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\kick trans 5.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.032 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\kick trans 6.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.264 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\Kick XF Small 1.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.133 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\Kick XF Small 2.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.032 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\Kick XF Small 3.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.027 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\Kick XF Small 4.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.061 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\Kick XF Small 5.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.052 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\metal tick 1.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.129 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\metal tick 2.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.103 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\shaker oats 1.wav" 44682 0 1654889596 0
+DATA y:2013-10-21 s:44100 n:2 r:8:08.558
+DATA l:0:00.240 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\shaker oats 2.wav" 30810 0 1654889596 0
+DATA y:2013-10-21 s:44100 n:2 r:8:03.227
+DATA l:0:00.162 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\shaker rice.wav" 93274 0 1654889596 0
+DATA y:2013-10-21 s:44100 n:2 r:7:47.280
+DATA l:0:00.514 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\snap 1.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.182 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\snap 2.wav" 65536 0 1654889596 0
+DATA s:44100 n:2 l:0:00.075 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\Strum1.aif" 11124 0 1654889596 0
+DATA s:44100 n:2 l:0:00.031 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\Strum2.aif" 13876 0 1654889596 0
+DATA s:44100 n:2 l:0:00.039 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\Strum3.aif" 13876 0 1654889596 0
+DATA s:44100 n:2 l:0:00.039 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\TransPerc1.wav" 62448 0 1654889596 0
+DATA s:44100 n:2 l:0:00.177 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\TransPerc2.wav" 38880 0 1654889596 0
+DATA s:44100 n:2 l:0:00.110 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\TransPerc3.wav" 62432 0 1654889596 0
+DATA s:44100 n:2 l:0:00.177 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\XF_HatSlice1.aif" 36484 0 1654889596 0
+DATA s:44100 n:2 l:0:00.103 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\XF_HatSlice2.aif" 44820 0 1654889596 0
+DATA s:44100 n:2 l:0:00.127 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\XF_HatSlice3.aif" 44772 0 1654889596 0
+DATA s:44100 n:2 l:0:00.127 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\XF_HatSlice4.aif" 44772 0 1654889596 0
+DATA s:44100 n:2 l:0:00.127 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\XF_Slice_1.aif" 44716 0 1654889596 0
+DATA s:44100 n:2 l:0:00.126 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\XF_Slice_2.aif" 80436 0 1654889596 0
+DATA s:44100 n:2 l:0:00.228 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Attacks_Misc\XF_Slice_3.aif" 87692 0 1654889596 0
+DATA s:44100 n:2 l:0:00.248 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\FP_Inharms\Inharmx 0.aif" 529254 0 1654889596 0
+DATA s:44100 n:2 l:0:02.000 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\FP_Inharms\Inharmx 1.aif" 529254 0 1654889596 0
+DATA s:44100 n:2 l:0:02.000 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\FP_Inharms\Inharmx 2.aif" 529254 0 1654889596 0
+DATA s:44100 n:2 l:0:02.000 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\FP_Inharms\Inharmx 3.aif" 529254 0 1654889596 0
+DATA s:44100 n:2 l:0:02.000 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\FP_Inharms\Inharmx 4.aif" 529254 0 1654889596 0
+DATA s:44100 n:2 l:0:02.000 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\FP_Inharms\Inharmx 5.aif" 529254 0 1654889596 0
+DATA s:44100 n:2 l:0:02.000 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\FP_Inharms\Inharmx 6.aif" 529254 0 1654889596 0
+DATA s:44100 n:2 l:0:02.000 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\FP_Inharms\Inharmx 7.aif" 529254 0 1654889596 0
+DATA s:44100 n:2 l:0:02.000 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\FP_Inharms\Inharmx 8.aif" 529254 0 1654889596 0
+DATA s:44100 n:2 l:0:02.000 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\FP_Inharms\Inharmx 9.aif" 529254 0 1654889596 0
+DATA s:44100 n:2 l:0:02.000 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\AC hum1.wav" 156526 0 1654889596 0
+DATA s:44100 n:1 l:0:01.774 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\AC hum2.wav" 185196 0 1654889596 0
+DATA s:44100 n:1 l:0:02.099 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\Air Can 1.wav" 165500 0 1654889596 0
+DATA "a:Steve Duda" "c:Air in a Can, recorded with MacBook mic" s:44100 n:1
+DATA l:0:01.875 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\Air Can 2.wav" 81834 0 1654889596 0
+DATA "a:Steve Duda" "c:Air in a Can, recorded with MacBook mic" s:44100 n:1
+DATA l:0:00.926 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\Air Can 3.wav" 176736 0 1654889596 0
+DATA s:44100 n:1 l:0:02.003 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\Air Can 4.wav" 127502 0 1654889596 0
+DATA s:44100 n:1 l:0:01.445 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\Air Can 5.wav" 176150 0 1654889596 0
+DATA s:44100 n:1 l:0:01.997 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\CymLoop.wav" 18844 0 1654889596 0
+DATA t:CymLoop "a:Steve Duda Cymbal" "c:made for xfer synth" s:44100
+DATA n:1 l:0:00.212 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\CymMicBleed.wav" 507196 0 1654889596 0
+DATA s:44100 n:2 l:0:02.875 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\H-Breath.wav" 82790 0 1654889596 0
+DATA "a:Chris James" "c:vocal breath" s:44100 n:1
+DATA l:0:00.938 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\Paper Bag.wav" 663894 0 1654889596 0
+DATA "c:Serum www.xferrecords.com" s:44100 n:2 l:0:01.881
+DATA i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\S-Sound.wav" 125498 0 1654889596 0
+DATA "a:Chris James" "c:s sound vocal" s:44100 n:1
+DATA l:0:01.422 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\Shush 1.wav" 148246 0 1654889596 0
+DATA s:44100 n:1 l:0:01.680 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\Shush 2.wav" 123268 0 1654889596 0
+DATA s:44100 n:1 l:0:01.397 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\Squeeky.wav" 1208310 0 1654889596 0
+DATA c:Serum s:44100 n:1 l:0:06.849
+DATA i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\Organics\WindChimes.wav" 436418 0 1654889596 0
+DATA "a:Steve Duda" "c:pitched up 1 octave" s:44100 n:1
+DATA l:0:04.947 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Analog Flow.wav" 1456600 0 1654889596 0
+DATA "t:FX Revolution Vol.1" "a:Mutekki Media / Sound of Revolution" y:12.01.2009 g:FX
+DATA "c:(c) 2009 mutekki-media.de / sound-of-revolution.com" "d:(c) 2009 mutekki-media.de / sound-of-revolution.com" s:44100 n:2
+DATA l:0:05.503 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Atmos 05.wav" 1440796 0 1654889596 0
+DATA s:44100 n:2 l:0:08.167 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Atmos 07.wav" 2469644 0 1654889596 0
+DATA s:44100 n:2 l:0:14.000 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Atmos 11.wav" 4190208 0 1654889596 0
+DATA "t:SOR Tech House + Minimal Revolution" a:www.sounds-of-revolution.com y:2013 "c:www.sounds-of-revolution.com    Enjoy!"
+DATA s:44100 n:2 l:0:15.790 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Atmos 14.wav" 517204 0 1654889596 0
+DATA s:44100 n:2 l:0:02.932 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Atmos 18.wav" 952404 0 1654889596 0
+DATA s:44100 n:2 l:0:05.399 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Atmos 20.wav" 742256 0 1654889596 0
+DATA "t:SOUNDS OF REVOLUTION " a:www.sounds-of-revolution.com y:2014 "c:www.sounds-of-revolution.com    Enjoy!"
+DATA s:44100 n:2 l:0:04.185 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Atmos 44.wav" 938140 0 1654889596 0
+DATA s:44100 n:2 l:0:05.317 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Atmos 45.wav" 507988 0 1654889596 0
+DATA s:44100 n:2 l:0:02.879 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Atmos 47.wav" 569500 0 1654889596 0
+DATA s:44100 n:2 l:0:03.228 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Atmos 52.wav" 7264074 0 1654889598 0
+DATA "t:SOR Tech House + Minimal Revolution" a:www.sounds-of-revolution.com y:2013 "c:www.sounds-of-revolution.com    Enjoy!"
+DATA s:44100 n:2 l:0:27.407 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Bonecrusher.wav" 2983066 0 1654889598 0
+DATA "t:FX Revolution Vol.1" "a:Mutekki Media / Sound of Revolution" y:12.01.2009 g:FX
+DATA "c:(c) 2009 mutekki-media.de / sound-of-revolution.com" "d:(c) 2009 mutekki-media.de / sound-of-revolution.com" s:44100 n:2
+DATA l:0:11.272 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Dark Phuture.wav" 628876 0 1654889598 0
+DATA s:44100 n:2 l:0:03.565 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Electric Bubbles.wav" 1452056 0 1654889598 0
+DATA s:44100 n:2 l:0:08.231 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Electricity.wav" 1818680 0 1654889598 0
+DATA s:44100 n:2 l:0:10.310 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Elysium.wav" 3027708 0 1654889598 0
+DATA s:44100 n:2 l:0:11.442 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\FX 5.wav" 869588 0 1654889598 0
+DATA s:44100 n:2 l:0:04.929 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Horns Of Fear.wav" 2748440 0 1654889598 0
+DATA s:44100 n:2 l:0:15.580 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Horrorwind.wav" 1762940 0 1654889598 0
+DATA s:44100 n:2 l:0:09.994 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Metalmaster.wav" 967768 0 1654889598 0
+DATA s:44100 n:2 l:0:05.486 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Place Of Fear.wav" 2613508 0 1654889598 0
+DATA s:44100 n:2 l:0:14.815 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Polar 1.wav" 2547796 0 1654889598 0
+DATA s:44100 n:2 l:0:14.443 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Polar 2.wav" 1460308 0 1654889598 0
+DATA s:44100 n:2 l:0:08.278 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Prophecy.wav" 4051888 0 1654889598 0
+DATA "t:FX Revolution Vol.1" "a:Mutekki Media / Sound of Revolution" y:12.01.2009 g:FX
+DATA "c:(c) 2009 mutekki-media.de / sound-of-revolution.com" "d:(c) 2009 mutekki-media.de / sound-of-revolution.com" s:44100 n:2
+DATA l:0:15.311 i:24
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Rising.wav" 1134052 0 1654889598 0
+DATA s:44100 n:2 l:0:06.428 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Strange Flow.wav" 1453776 0 1654889598 0
+DATA s:44100 n:2 l:0:08.241 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Noises\SOR\Waterworld.wav" 2117540 0 1654889598 0
+DATA s:44100 n:2 l:0:12.004 i:16
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA 8bitfwap [GI].fxp" 2327 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Access 2 Mthrshp Denied [LCV].fxp" 17675 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Angggeerrrrr 1999 [GI].fxp" 2406 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Angle Grinder [SN].fxp" 2194 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Angry Boss [JL].fxp" 3138 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Bandpass 2 [SL].fxp" 191653 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Bass dropper [GI].fxp" 4526 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Bites [7S].fxp" 11484 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA BitterBot [LCV].fxp" 62866 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA BlackMask [7S].fxp" 50286 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA BotWerx [LCV].fxp" 62821 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Complextro 1 [CFA].fxp" 62398 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Complextro 2 [CFA].fxp" 32335 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA CrowdScream Bass [ASL].fxp" 78840 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Dark Weight DnB [ASL].fxp" 19015 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA DarkWobble [CFA].fxp" 62612 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Deth reece [GI].fxp" 2199 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA DIE for you [JL].fxp" 2432 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Digimods [ASL].fxp" 215041 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Dizzy [7S].fxp" 12510 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Downsampler [FN].fxp" 358433 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Drill [CFA].fxp" 32164 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Dub Screecher [SN].fxp" 4776 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Evolving Bass [FN].fxp" 445279 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA FuckButtons [SW].fxp" 2742 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Gritter [GI].fxp" 4784 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA GRWL PNCH! [LCV].fxp" 32007 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Hoo [SN].fxp" 58944 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Inertia Wobbler [SN].fxp" 2884 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA LazorBass [GS].fxp" 2796 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Le Gigante [LCV].fxp" 50665 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Mean Rawr Bass [LCV].fxp" 402466 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Melbourne [DRK].fxp" 677627 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Modulated Chomper [ASL].fxp" 84995 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA No Effects [DRK].fxp" 1923 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA NuSweep [ASL].fxp" 107760 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Post wa_tech [GI].fxp" 2245 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Razor [CFA].fxp" 32336 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA RBLz [7S].fxp" 1922 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Revolt [7S].fxp" 16422 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Sawtoooooth II [FN].fxp" 12963 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Scream 4 Me [LCV].fxp" 24997 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA SCREAM Wobble 01 [LCV].fxp" 32083 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Sever Headz [JL].fxp" 2747 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Skreetcher Creeture [LCV].fxp" 19321 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Sludgecrank [SN].fxp" 193976 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Snailed [SN].fxp" 2243 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Squerbo [SN].fxp" 104443 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA The Standard SC [ASL].fxp" 47105 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Throat Yeah [LCV].fxp" 32433 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Transformer Growl [ADWR].fxp" 9720 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Tu-um-wii [AF].fxp" 2317 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Wide Eyed Reese [LCV].fxp" 32576 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass (Hard)\BA Y U Mod Wheel [LCV].fxp" 54861 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Ampology [CFA].fxp" 32288 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Analog Pluck [SN].fxp" 2118 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA BSOD Sqr Bass [SD].fxp" 17675 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Chunky Bass Chop 1 [GQ].fxp" 6462 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Chunky Bass Chop 2 [GQ].fxp" 6783 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Classic But More [EE].fxp" 1997 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA D_Bass 1 [DU].fxp" 2178 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA D_Bass 2 [DU].fxp" 2140 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Deep Sync [BS].fxp" 2191 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Deep Womp [ADWR].fxp" 1749 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA DnB Roller [ASL].fxp" 201250 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Feed the Mau5 [JL].fxp" 2979 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA FM Bounce [ASL].fxp" 13262 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA FM Wob [ADWR].fxp" 43326 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA FunkMogue [CFA].fxp" 2216 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA fuzzbass [GS].fxp" 2907 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Headbass [FP].fxp" 2355 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Hipster Bass [FP].fxp" 2039 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Jackson [BR].fxp" 17771 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Liquid neuro [GI].fxp" 4692 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA MiniBob [ASL].fxp" 2000 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Modern Fapping [GI].fxp" 2190 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Modwheel me [GI].fxp" 2244 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA MsAw fun [GI].fxp" 4770 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Mute Bass Gtr [BR].fxp" 13371 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Organ Bass [FP].fxp" 2149 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Short Bass [FN].fxp" 16591 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA SomeGrit [EE].fxp" 1920 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Squelch Bounce [ASL].fxp" 26165 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Sub_dskprc [GI].fxp" 129302 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Talk Wobz [ADWR].fxp" 1967 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Tech Step FM [SD].fxp" 7872 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA The Realest [PL].fxp" 9858 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Three Oh Three! [PL].fxp" 5915 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Trancy Bass [AS].fxp" 12844 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Tuffybass [GS].fxp" 2742 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Vile Snap Bs [JL].fxp" 3037 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Bass\BA Wobble Bass [FN].fxp" 4492 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX 16-Bar Riser [FP].fxp" 2279 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX 8bar+riser [GS].fxp" 17175 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Alien interface [SN].fxp" 278165 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Alien Tripod [BR].fxp" 2383 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Ambiance Evil [KG].fxp" 2143 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Andromeda2 [KG].fxp" 2221 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Backtrack [GS].fxp" 147063 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Bullwhip [GS].fxp" 2862 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Chromatica [GS].fxp" 2940 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Classic Breakdown [FN].fxp" 5191 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Clickers [AS].fxp" 4867 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX ConvergenceB [GS].fxp" 2603 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Debby Downer [JD].fxp" 2199 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX DistantSemi [GS].fxp" 2620 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Easy Riser [FN].fxp" 10348 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX fall [GS].fxp" 2511 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX fall-in [GS].fxp" 2369 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX High Transition [FN].fxp" 275347 0 1654889598 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX HighRoller [CFA].fxp" 2150 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX I'm 12 What is This [LT].fxp" 15544 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX IamRightHere [GS].fxp" 2754 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Intergalactic Choo Choo [FP].fxp" 2072 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Juno Wobble Builder [SN].fxp" 2195 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Linet [GS].fxp" 2670 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX MonkVerb [SW].fxp" 5024 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Mothra [GS].fxp" 2271 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Noisy Downer [SN].fxp" 2468 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Noizinger [FN].fxp" 10695 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Perfer [GS].fxp" 72473 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX PowerDown [KG].fxp" 2266 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX PowerUp Long [KG].fxp" 2146 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Radiophonic Workshop [ASL].fxp" 1952903 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Rampant 1 [LT].fxp" 2035 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Rampant 2 [LT].fxp" 2102 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Rampant 3 [LT].fxp" 2079 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Rewinding Tape [BR].fxp" 89777 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX RisingClicks [AF].fxp" 2619 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Robo Chatter [SN].fxp" 2707 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX SawdupManual [GS].fxp" 2541 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Shifting Gear [JD].fxp" 16994 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Shotgun [FN].fxp" 277893 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX SpaceVerb [SW].fxp" 4958 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Spikes [7S].fxp" 5689 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Submarine [AS].fxp" 4986 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Tension Pulse [SN].fxp" 2497 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX THX [AS].fxp" 4447 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Updowner [FN].fxp" 2166 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Uplifter [AS].fxp" 2027 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Washer [GS].fxp" 2422 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Weirdo [FP].fxp" 2488 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX WW2 Air Raid Siren [ASL].fxp" 5368 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\FX\FX Zombie Growl [SD].fxp" 88831 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD 8bitcycle [AF].fxp" 1987 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD A Bit of Luck [SD].fxp" 1858 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Analogesque [EE].fxp" 2245 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Araba [7S].fxp" 19367 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Bendy Metal [DK].fxp" 2533 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Bionic Squirrel [BS].fxp" 2483 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Birth Of Electro [FP].fxp" 2798 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD booty [AF].fxp" 1985 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD BottleBlower [SD].fxp" 4785 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD BraveHeart [7S].fxp" 19308 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Brutality [FN].fxp" 422558 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD C64 Lead [AS].fxp" 8660 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Caliber [SD].fxp" 5552 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Clang [SD].fxp" 8202 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Cripple [JD].fxp" 12567 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD D_Lead 1 [DU].fxp" 5136 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD D_Lead 2 [DU].fxp" 2785 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Digi Radar Boss [JL].fxp" 2464 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Dirty Lead [SW].fxp" 17761 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Dubrill [JD].fxp" 73728 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Earliertoday [AF].fxp" 4735 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Electro Lead BA [SN].fxp" 32233 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Epic Lead [AS].fxp" 4386 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Essence [7S].fxp" 5173 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Festival Beez [FP].fxp" 3013 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Gamers [BR].fxp" 8441 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Hardstyle Lead [SN].fxp" 5298 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Heavy Metal[SD].fxp" 4638 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD HelloKitty [CFA].fxp" 1888 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Hypersaw [JD].fxp" 17059 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD IHeardULike5ths [SD].fxp" 9834 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD In Your Face [RI].fxp" 12875 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Jacked [7S].fxp" 5226 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Jerk [BR].fxp" 25025 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Junatic [AF].fxp" 2027 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Kidsos [7S].fxp" 19334 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD LaughMod [GS].fxp" 4434 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD LimoDriver [GS].fxp" 3278 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Magic Pipe [BR].fxp" 2506 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Marina [FP].fxp" 2659 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Mids Lead [BR].fxp" 16516 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Mobius Sync [SD].fxp" 5109 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Nadamoog [FP].fxp" 9604 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Noor Santoor [BR].fxp" 17557 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Old Lead [FN].fxp" 5302 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Organ Grinder [DK].fxp" 3194 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Paradigm Drift [SN].fxp" 2474 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD PaWuMpa! [FP].fxp" 3232 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD PeterPiper [SD].fxp" 10037 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Plucking Organ Thief [DK].fxp" 1763 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Postmodern Talking [FP].fxp" 3387 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Power 5ths [FP].fxp" 818875 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Pterodattero [AF].fxp" 2308 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Rave [7S].fxp" 5062 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Release The BotRock.fxp" 2046 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Ring Scream [PL].fxp" 5482 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Riptile [GS].fxp" 2501 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Sad Melody [7S].fxp" 5173 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Scotland [BR].fxp" 2505 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Scratchy (Hold!) [AF].fxp" 2090 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Screamy Sync Square [ASL].fxp" 7927 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD SerumOfGod [7S].fxp" 1870 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Shanky Ganky Bot [LCV].fxp" 183524 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Spookytastic [FP].fxp" 4696 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Tator [JD].fxp" 73365 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Theremax [ASL].fxp" 2005 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Titan [CFA].fxp" 9707 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Tokyo [BR].fxp" 3072 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Voicy [7S].fxp" 13092 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Voxxy [JD].fxp" 70458 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Leads\LD Watery [SD].fxp" 5159 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\CONTROL pad jp [AF].fxp" 9909 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\HV Hoover [7S].fxp" 1679 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\HV Whoever [SD].fxp" 2138 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\INIT TableAnim [SD].fxp" 4719 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\KY Let's Get Nutz [FP].fxp" 1847 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\KY punchOrgan [GS].fxp" 2233 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\KY WurlyKeys [ASL].fxp" 20471 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\MID CalyxTeeBee [BR].fxp" 12383 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\MID Fenugreek [BR].fxp" 17991 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\PR 808 Kick Circuit [SD].fxp" 4659 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\PR Dirty Kick [SN].fxp" 47292 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\PR gamelan tweak [GS].fxp" 4696 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\PR Kicking [CFA].fxp" 4383 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\PR mipkick [GS].fxp" 2518 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\PR SNARE 8X8 [ASL].fxp" 11242 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\PR UnderMyThumb [GS].fxp" 4644 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\SAW Find me [AF].fxp" 4417 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\SAW Nirvana [AF].fxp" 5280 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\SAW Scream my name [AF].fxp" 13069 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\SAW Taboo [AF].fxp" 5493 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Misc\VC Cyber Didgeridoo [FP].fxp" 13116 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD ArticWind [CFA].fxp" 2011 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Beating Pad [AS].fxp" 5096 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD BenjPad [GS].fxp" 2422 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Big Minor Seventh Pad [SN].fxp" 2130 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Broken Bows [SW].fxp" 6636 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Celestial Light [SW].fxp" 5397 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Centipad [7S].fxp" 2177 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD ChampionBassPad [GS].fxp" 4924 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Circling Orch [GS].fxp" 92426 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD D_Pad 1 [DU].fxp" 2887 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD D_Pad 2 [DU].fxp" 1810 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Defiant [BR].fxp" 21526 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Dont Go In There [JL].fxp" 2498 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Emotional More [KG].fxp" 2076 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Epic Bandpass Pad [JL].fxp" 2638 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Ethereal Compass [LT].fxp" 37872 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Event Horizon [LT].fxp" 2327 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Falling In Reverse [LCV].fxp" 19765 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Gated Pad [AS].fxp" 4522 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Hold This Note [FP].fxp" 2302 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Holy Place [BR].fxp" 17877 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Hopeful [KG].fxp" 2106 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Horns of Fear [SD].fxp" 16606 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD I.S.S. Sunrise [SW].fxp" 17929 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Jp8k [7S].fxp" 17483 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Lost Souls [AS].fxp" 1892 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Lost Space Pad [JL].fxp" 2502 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Lux [7S].fxp" 9927 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Menthol Strings [ASL].fxp" 35199 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Mermaid [GS].fxp" 1958 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Monkchoir [GS].fxp" 2291 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Newdrone [GS].fxp" 2535 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Night Desert MW [BR].fxp" 2448 0 1654889600 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Oddity [GS].fxp" 2475 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD OldDrone [GS].fxp" 2612 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Panic Run [SD].fxp" 19368 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Post Rock Pad 2 [SW].fxp" 17720 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Quasar [LT].fxp" 31349 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Raspy Strings [SW].fxp" 6441 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Sad [KG].fxp" 2165 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Serenity [BR].fxp" 33044 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Slow Pad [AS].fxp" 5241 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Space Pad [SL].fxp" 353401 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Spacey maj7th Pad II [SW].fxp" 6064 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD The Time [DRK].fxp" 1980 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Tibet Wind Atmos [ASL].fxp" 127029 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Too much drama [AF].fxp" 2105 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Voxu [7S].fxp" 4459 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Pads\PD Whispering Voice [FN].fxp" 16297 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Beepy ting [GI].fxp" 19646 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Big Bells [AS].fxp" 12567 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Cliche d00t [GI].fxp" 4459 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Crushed Pluck [AS].fxp" 5198 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Crusty Pluck [LCV].fxp" 5818 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL D_Pluck [DU].fxp" 2193 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Downed [7S].fxp" 5253 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Downpitcher [FN].fxp" 444061 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Dreamy NuDisco [SW].fxp" 7071 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Dyk Pyk [PL].fxp" 5445 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL FMmy [SD].fxp" 12578 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Mallety [SD].fxp" 571004 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Metachord [FP].fxp" 2129 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Metallica [FN].fxp" 422597 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Modern Drop 1 [DRK].fxp" 2171 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Monolith [7S].fxp" 47066 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Nice Plugger [FN].fxp" 422676 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Nothing Special [DRK].fxp" 1791 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Pads Pluck [BR].fxp" 9896 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Phantoms [SD].fxp" 4336 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Plucked [RI].fxp" 1906 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Pluto [DRK].fxp" 1739 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Power and Progress [PL].fxp" 10184 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL RanOutOfNames [7S].fxp" 1884 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Snickers [CFA].fxp" 1980 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL So Dreamy [FP].fxp" 2804 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Spacer [7S].fxp" 19329 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Spacey [AF].fxp" 2006 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Sunny [7S].fxp" 10679 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL SuperAlba [7S].fxp" 2702 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Tinkerbell [DRK].fxp" 1893 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Plucked\PL Totem [7S].fxp" 1728 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ 2notes [GS].fxp" 2556 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ 303Tails [7S].fxp" 306372 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Acid Time [FN].fxp" 304941 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ AKS On The Run [ASL].fxp" 8265 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Anxiety Loop [AF].fxp" 1401911 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Automator 1 [GS].fxp" 2663 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Automator 2 [GS].fxp" 2798 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Automator 3 [GS].fxp" 10937 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Automator 4 [GS].fxp" 123682 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Automator 5 [GS].fxp" 2897 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Automator 6 [GS].fxp" 3032 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Bass Pitfire [7S].fxp" 287229 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Bass Riser [FN].fxp" 16347 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ BassCrackin [BS].fxp" 3282 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Bendy Hi Jack [IM].fxp" 10057 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Big Fat Squeezer [FN].fxp" 2272 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Blade [LT].fxp" 5112 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Buildings [GS].fxp" 2022 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Busy Lines [LCV].fxp" 16850 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Cannon [7S].fxp" 19836 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Chems [GS].fxp" 2926 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Chords Simple [RI].fxp" 2440 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Dark Runner 01 [LCV].fxp" 32608 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Deadtalking [JL].fxp" 2348 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Destroided [AF].fxp" 113377 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Detectives [BR].fxp" 5884 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Diver [GS].fxp" 2657 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Dont Push [IM].fxp" 2691 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Dot It Up [RI].fxp" 2154 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ DownUnder [7S].fxp" 5804 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Dreams [7S].fxp" 2094 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Dub (Techno) [SW].fxp" 5305 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Dyk Pyk [PL].fxp" 5577 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Easy Line [FN].fxp" 8787 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Ebony [AF].fxp" 1976 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Electro Phrase 1 [SN].fxp" 2331 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Electro Phrase 2 [SN].fxp" 2318 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Fast Intro [DRK].fxp" 32587 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Fast Runner [RI].fxp" 2635 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Fifth Ave 1 [JL].fxp" 2633 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Fifth Ave 2 [JL].fxp" 5347 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Funk Concerned [BR].fxp" 2574 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Future Steps [LCV].fxp" 24350 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ FutureRetro [GS].fxp" 2781 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Giddyup [GS].fxp" 2478 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Good Old C64 [DRK].fxp" 4725 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Happylights [GS].fxp" 2765 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Happyriser [GS].fxp" 2959 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Heh [LT].fxp" 2886 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Hell Saw Sequence [SN].fxp" 5784 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Is This Trance [DRK].fxp" 4261 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ L'etape du Tour [ASL].fxp" 17446 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Lo-fi Beat [AS].fxp" 4638 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Majestic [SD].fxp" 17183 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Masters [7S].fxp" 306541 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Minor Arp [SN].fxp" 2335 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Neutral [7S].fxp" 2679 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Never Satisfied [JL].fxp" 2514 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ New Wavy [SD].fxp" 2103 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Nu Skool Raver [ASL].fxp" 458006 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Platypus [SN].fxp" 2557 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Plucksweep [GS].fxp" 2758 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Pyg [GS].fxp" 2534 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Rainycakes [GS].fxp" 5019 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Rave Slicer [SN].fxp" 5717 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Retro Tension [SN].fxp" 4809 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Rhythmia [FP].fxp" 2538 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ RockThat [GS].fxp" 9788 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Rumba [GS].fxp" 3240 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Rumma [GS].fxp" 3277 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Sawdust [GS].fxp" 2716 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Shakey [BR].fxp" 25315 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ SixEight [GS].fxp" 3124 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Smooth Intro [DRK].fxp" 32540 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Swinging Saws [ASL].fxp" 5643 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Tell Sad Story [BR].fxp" 9131 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Tension Pulse [SN].fxp" 2345 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Transepoert [FP].fxp" 2505 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Wavetabledancer [FN].fxp" 202187 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Seq\SQ Worker [GS].fxp" 3111 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY AnalogBrass [SD].fxp" 11924 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY AnalogString [SD].fxp" 4512 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Angry Organ [KG].fxp" 2594 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Arcader [FP].fxp" 2452 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Augustines Bell Chapel [JL].fxp" 2999 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Big Sleepy [FP].fxp" 2862 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Buzzz Saw [IM].fxp" 9544 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY cHello [GS].fxp" 2977 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Chord Rampensau [FN].fxp" 10645 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY crappy keys [GI].fxp" 27617 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY CRAZYFEST [BS].fxp" 9385 0 1654889602 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY CrazyLayer [SD].fxp" 12699 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Dirtypure [GS].fxp" 2613 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Drawbar Organ [ASL].fxp" 23566 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Eiano [LT].fxp" 9856 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY ElectricLight [GS].fxp" 2381 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY electro-y chords [GI].fxp" 2021 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Flic [GS].fxp" 2493 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Geoduck [SN].fxp" 2695 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Glassy [PL].fxp" 17319 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Hypersaw Basic [SD].fxp" 12387 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Hypersaw Layered [SD].fxp" 9380 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY JunoBells [SD].fxp" 3923 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Linear Arithmetic [FP].fxp" 2364 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Many Feels [FP].fxp" 2533 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY MellowBuzz [GS].fxp" 2374 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY ModSync 1 [GS].fxp" 2311 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY ModSync 2 [GS].fxp" 2394 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Monolithic [SD].fxp" 5171 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Monotone [CFA].fxp" 2433 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Moriccone [GS].fxp" 2339 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Mr.Wiggles [FP].fxp" 16162 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Mtron Saw [SD].fxp" 5068 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Multicolor [CFA].fxp" 1932 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY One Note House wSub [PL].fxp" 27803 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY PavingRhodes [SD].fxp" 12753 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Plastic [GS].fxp" 2522 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Poly Numana [ASL].fxp" 14988 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY ponderosa [GS].fxp" 2540 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY PopSuperSaw [GS].fxp" 5534 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Runtheharm [GS].fxp" 2729 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY SAMsPissed [SD].fxp" 4820 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Shot Dirt Stab [IM].fxp" 32079 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Sickly keys [GI].fxp" 4851 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Simple Sync [SD].fxp" 5326 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Solina [FP].fxp" 2351 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Space Bach [SN].fxp" 5160 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Sqrs [GS].fxp" 2004 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Stereoid [SD].fxp" 1808 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Such Relaxation [FP].fxp" 2838 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Sweepad [PL].fxp" 5208 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Synth Pluggy [FN].fxp" 443966 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY TalkWithMod [GS].fxp" 2682 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Taped Old Skool Stab [ASL].fxp" 4751 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Techarm [GS].fxp" 2450 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY VeloCap [GS].fxp" 2435 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY VeloHarm [GS].fxp" 5390 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Vintage Bells [FP].fxp" 2707 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY VintageDigital [SD].fxp" 2554 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY VintageSpace [LCV].fxp" 192418 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Presets\Synth\SY Yang [FP].fxp" 2258 0 1654889604 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\System\user.dat" 11 0 1654889610 0
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\4088.wav" 131208 0 1654889610 0
+DATA s:44100 n:1 l:0:00.743 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Acid.wav" 332710 0 1654889610 0
+DATA s:44100 n:1 l:0:01.858 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Analog_BD_Sin.wav" 49288 0 1654889610 0
+DATA s:44100 n:1 l:0:00.279 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Basic Mg.wav" 1360008 0 1654889610 0
+DATA s:44100 n:1 l:0:07.709 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Basic Mini.wav" 32904 0 1654889610 0
+DATA s:44100 n:1 l:0:00.186 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Basic Shapes.wav" 57480 0 1654889610 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Basic_Cjw.wav" 49288 0 1654889610 0
+DATA s:44100 n:1 l:0:00.279 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Basic_McB.wav" 32904 0 1654889610 0
+DATA s:44100 n:1 l:0:00.186 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Basic_Mdc.wav" 32904 0 1654889610 0
+DATA s:44100 n:1 l:0:00.186 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Basic_Wrd.wav" 57480 0 1654889610 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\BS2 - Acid.wav" 1048712 0 1654889610 0
+DATA s:44100 n:1 l:0:05.944 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\BS2 - Filthy.wav" 598152 0 1654889610 0
+DATA s:44100 n:1 l:0:03.390 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\BS2 - Subby Saw.wav" 65672 0 1654889610 0
+DATA s:44100 n:1 l:0:00.372 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\BSOD_Square.wav" 16520 0 1654889610 0
+DATA s:44100 n:1 l:0:00.093 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\DS Saw and Tri.wav" 24712 0 1654889610 0
+DATA s:44100 n:1 l:0:00.139 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Jno.wav" 82056 0 1654889610 0
+DATA s:44100 n:1 l:0:00.464 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\MATRIXY C64.wav" 589960 0 1654889610 0
+DATA s:44100 n:1 l:0:03.344 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\MB Saw.wav" 2097288 0 1654889610 0
+DATA s:44100 n:1 l:0:11.889 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\MB Triangle (Metal).wav" 2097288 0 1654889610 0
+DATA s:44100 n:1 l:0:11.889 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Mellow But Instable.wav" 2039944 0 1654889610 0
+DATA s:44100 n:1 l:0:11.564 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\MiniBass.wav" 90248 0 1654889610 0
+DATA s:44100 n:1 l:0:00.511 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\MsAw.wav" 1106056 0 1654889610 0
+DATA s:44100 n:1 l:0:06.269 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\MsPw.wav" 999560 0 1654889610 0
+DATA s:44100 n:1 l:0:05.666 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM C64.wav" 163976 0 1654889610 0
+DATA s:44100 n:1 l:0:00.929 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM DS.wav" 819336 0 1654889610 0
+DATA s:44100 n:1 l:0:04.644 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM Genji.wav" 1114248 0 1654889610 0
+DATA s:44100 n:1 l:0:06.316 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM Inception.wav" 376968 0 1654889610 0
+DATA s:44100 n:1 l:0:02.136 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM Juno.wav" 917640 0 1654889610 0
+DATA s:44100 n:1 l:0:05.201 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM LPF.wav" 1843336 0 1654889610 0
+DATA s:44100 n:1 l:0:10.449 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM Maths 2.wav" 139400 0 1654889610 0
+DATA s:44100 n:1 l:0:00.789 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM Maths.wav" 98440 0 1654889610 0
+DATA s:44100 n:1 l:0:00.557 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM MedicineHat.wav" 376968 0 1654889610 0
+DATA s:44100 n:1 l:0:02.136 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM MG.wav" 557192 0 1654889610 0
+DATA s:44100 n:1 l:0:03.158 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM Mini.wav" 1474696 0 1654889610 0
+DATA s:44100 n:1 l:0:08.359 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM Reso.wav" 1704072 0 1654889610 0
+DATA s:44100 n:1 l:0:09.660 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM Restricted.wav" 893064 0 1654889610 0
+DATA s:44100 n:1 l:0:05.062 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM Trench.wav" 360584 0 1654889610 0
+DATA s:44100 n:1 l:0:02.043 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\PWM_Mdc.wav" 737416 0 1654889610 0
+DATA s:44100 n:1 l:0:04.180 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\SawRounded.wav" 213128 0 1654889610 0
+DATA s:44100 n:1 l:0:01.207 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\SawRoundedToSquare.wav" 213128 0 1654889610 0
+DATA s:44100 n:1 l:0:01.207 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\SQR_SAW_Wrd.wav" 16520 0 1654889610 0
+DATA s:44100 n:1 l:0:00.093 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Analog\Sweep20.wav" 2089096 0 1654889610 0
+DATA s:44100 n:1 l:0:11.842 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Anti-Stasis.wav" 1450120 0 1654889610 0
+DATA s:44100 n:1 l:0:08.220 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\bipole_harmonic.wav" 24712 0 1654889610 0
+DATA s:44100 n:1 l:0:00.139 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\BottleBlow.wav" 737416 0 1654889610 0
+DATA s:44100 n:1 l:0:04.180 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\CrushWub.wav" 98404 0 1654889610 0
+DATA s:44100 n:1 l:0:00.557 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Debussy.wav" 172168 0 1654889610 0
+DATA s:44100 n:1 l:0:00.975 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\DirtySaw.wav" 49288 0 1654889610 0
+DATA s:44100 n:1 l:0:00.279 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Dist 8bit Fwap.wav" 147592 0 1654889610 0
+DATA s:44100 n:1 l:0:00.836 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Dist Bass Dropper.wav" 131208 0 1654889610 0
+DATA s:44100 n:1 l:0:00.743 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Dist C2.wav" 41096 0 1654889610 0
+DATA s:44100 n:1 l:0:00.232 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Dist d00t.wav" 2097288 0 1654889610 0
+DATA s:44100 n:1 l:0:11.889 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Dist Fwapper SQ.wav" 163976 0 1654889610 0
+DATA s:44100 n:1 l:0:00.929 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Dist Sub Dskperc.wav" 73864 0 1654889610 0
+DATA s:44100 n:1 l:0:00.418 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Dist WaTech.wav" 2097288 0 1654889610 0
+DATA s:44100 n:1 l:0:11.889 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Dull_toy.wav" 24712 0 1654889610 0
+DATA s:44100 n:1 l:0:00.139 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Ethos.wav" 524424 0 1654889610 0
+DATA s:44100 n:1 l:0:02.972 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Evol Longreece.wav" 1491080 0 1654889612 0
+DATA s:44100 n:1 l:0:08.452 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Evol Sweep.wav" 57480 0 1654889612 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Evolution.wav" 49288 0 1654889612 0
+DATA s:44100 n:1 l:0:00.279 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\FFT_Add_2nds.wav" 131208 0 1654889612 0
+DATA s:44100 n:1 l:0:00.743 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\FFT_Add_3rds.wav" 131208 0 1654889612 0
+DATA s:44100 n:1 l:0:00.743 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\FFT_Add_4ths.wav" 131208 0 1654889612 0
+DATA s:44100 n:1 l:0:00.743 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\FFT_Animal 1.wav" 57480 0 1654889612 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\FFT_SQUEAL.wav" 57480 0 1654889612 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\FM_Freak.wav" 114824 0 1654889612 0
+DATA s:44100 n:1 l:0:00.650 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\FM_Splat.wav" 467080 0 1654889612 0
+DATA s:44100 n:1 l:0:02.647 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\FMFM.wav" 204936 0 1654889612 0
+DATA s:44100 n:1 l:0:01.161 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Gritty.wav" 32904 0 1654889612 0
+DATA s:44100 n:1 l:0:00.186 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\GS-xello.wav" 155784 0 1654889612 0
+DATA s:44100 n:1 l:0:00.882 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Harmonic Morph.wav" 2097288 0 1654889612 0
+DATA s:44100 n:1 l:0:11.889 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Harmonic Subtle.wav" 1654920 0 1654889612 0
+DATA s:44100 n:1 l:0:09.381 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\HarmonicSeries.wav" 196744 0 1654889612 0
+DATA s:44100 n:1 l:0:01.115 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Hoo.wav" 57444 0 1654889612 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Hypa.wav" 8328 0 1654889612 0
+DATA s:44100 n:1 l:0:00.046 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\ICanHasKick.wav" 2097288 0 1654889612 0
+DATA s:44100 n:1 l:0:11.889 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Kream.wav" 270472 0 1654889612 0
+DATA s:44100 n:1 l:0:01.533 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Mario.wav" 32904 0 1654889612 0
+DATA s:44100 n:1 l:0:00.186 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Misfits.wav" 16520 0 1654889612 0
+DATA s:44100 n:1 l:0:00.093 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\PerfectSQSteps.wav" 262280 0 1654889612 0
+DATA s:44100 n:1 l:0:01.486 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Prime.wav" 1958024 0 1654889612 0
+DATA s:44100 n:1 l:0:11.099 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\PWM Electro.wav" 2097252 0 1654889612 0
+DATA s:44100 n:1 l:0:11.889 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\PWM Weird.wav" 2097252 0 1654889612 0
+DATA s:44100 n:1 l:0:11.889 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Razor.wav" 24712 0 1654889612 0
+DATA s:44100 n:1 l:0:00.139 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Reese.wav" 352392 0 1654889612 0
+DATA s:44100 n:1 l:0:01.997 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Ring.wav" 270472 0 1654889612 0
+DATA s:44100 n:1 l:0:01.533 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Scream.wav" 1007752 0 1654889612 0
+DATA s:44100 n:1 l:0:05.712 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Shrats.wav" 82056 0 1654889612 0
+DATA s:44100 n:1 l:0:00.464 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Sludgecrank.wav" 204900 0 1654889612 0
+DATA s:44100 n:1 l:0:01.161 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\SSQ.wav" 24712 0 1654889612 0
+DATA s:44100 n:1 l:0:00.139 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\SubBass_1.wav" 98440 0 1654889612 0
+DATA s:44100 n:1 l:0:00.557 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Tigra.wav" 57480 0 1654889612 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\VintageSynth.wav" 2089096 0 1654889612 0
+DATA s:44100 n:1 l:0:11.842 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Voxu.wav" 1245320 0 1654889612 0
+DATA s:44100 n:1 l:0:07.059 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Waveterminal.wav" 20616 0 1654889612 0
+DATA s:44100 n:1 l:0:00.116 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Weow.wav" 155748 0 1654889612 0
+DATA s:44100 n:1 l:0:00.882 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Wraith.wav" 65636 0 1654889612 0
+DATA s:44100 n:1 l:0:00.372 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Digital\Yoy64.wav" 2097252 0 1654889612 0
+DATA s:44100 n:1 l:0:11.889 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\AlienSpectral [SN].wav" 295048 0 1654889612 0
+DATA s:44100 n:1 l:0:01.672 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Bowed Metal [ML].wav" 73864 0 1654889612 0
+DATA s:44100 n:1 l:0:00.418 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Creeper [SN].wav" 57444 0 1654889612 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Electric Guitar [SL].wav" 49252 0 1654889612 0
+DATA s:44100 n:1 l:0:00.279 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Gremlin [SN].wav" 295012 0 1654889612 0
+DATA s:44100 n:1 l:0:01.672 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Grimace [SN].wav" 82020 0 1654889612 0
+DATA s:44100 n:1 l:0:00.464 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Light Metal 1 [SL].wav" 82020 0 1654889612 0
+DATA s:44100 n:1 l:0:00.464 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Monster 1 [SL].wav" 98404 0 1654889612 0
+DATA s:44100 n:1 l:0:00.557 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Monster 2 [SL].wav" 90212 0 1654889612 0
+DATA s:44100 n:1 l:0:00.511 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Monster 3 [SL].wav" 90212 0 1654889612 0
+DATA s:44100 n:1 l:0:00.511 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Monster 4 [SL].wav" 172132 0 1654889612 0
+DATA s:44100 n:1 l:0:00.975 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Monster 5 [SL].wav" 57444 0 1654889612 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Monster 6 [SL].wav" 49252 0 1654889612 0
+DATA s:44100 n:1 l:0:00.279 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Monster 7 [SL].wav" 139364 0 1654889612 0
+DATA s:44100 n:1 l:0:00.789 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Monster 8 [SL].wav" 2097252 0 1654889612 0
+DATA s:44100 n:1 l:0:11.889 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Monster 9 [SL].wav" 131172 0 1654889612 0
+DATA s:44100 n:1 l:0:00.743 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Oddpass [SN].wav" 57444 0 1654889612 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Phase Werb [SL].wav" 155748 0 1654889612 0
+DATA s:44100 n:1 l:0:00.882 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Reesey Mess 1 [SL].wav" 114788 0 1654889612 0
+DATA s:44100 n:1 l:0:00.650 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Reesey Mess 2 [SL].wav" 32868 0 1654889612 0
+DATA s:44100 n:1 l:0:00.186 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Reesey Mess 3 [SL].wav" 57444 0 1654889612 0
+DATA s:44100 n:1 l:0:00.325 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Reesey Mess 4 [SL].wav" 204900 0 1654889612 0
+DATA s:44100 n:1 l:0:01.161 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Reesey Mess 5 [SL].wav" 82020 0 1654889612 0
+DATA s:44100 n:1 l:0:00.464 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Scout [SN].wav" 245860 0 1654889612 0
+DATA s:44100 n:1 l:0:01.393 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Solid Phase 1 [SL].wav" 114788 0 1654889612 0
+DATA s:44100 n:1 l:0:00.650 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Solid Phase 2 [SL].wav" 368740 0 1654889612 0
+DATA s:44100 n:1 l:0:02.090 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Squelchy 1 [SL].wav" 82020 0 1654889612 0
+DATA s:44100 n:1 l:0:00.464 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Squelchy 2 [SL].wav" 90212 0 1654889612 0
+DATA s:44100 n:1 l:0:00.511 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Squelchy 3 [SL].wav" 163940 0 1654889612 0
+DATA s:44100 n:1 l:0:00.929 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Squelchy FM 1 [SL].wav" 139364 0 1654889612 0
+DATA s:44100 n:1 l:0:00.789 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Squelchy FM 2 [SL].wav" 98404 0 1654889612 0
+DATA s:44100 n:1 l:0:00.557 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Thin Thick [SL].wav" 983140 0 1654889612 0
+DATA s:44100 n:1 l:0:05.573 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Trilobyte 1 [SL].wav" 139364 0 1654889612 0
+DATA s:44100 n:1 l:0:00.789 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Trilobyte 2 [SL].wav" 131172 0 1654889612 0
+DATA s:44100 n:1 l:0:00.743 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Spectral\Trilobyte 3 [SL].wav" 131172 0 1654889612 0
+DATA s:44100 n:1 l:0:00.743 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\Allophones.wav" 123016 0 1654889612 0
+DATA s:44100 n:1 l:0:00.697 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\DudaChoir.wav" 311432 0 1654889612 0
+DATA s:44100 n:1 l:0:01.765 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\E_Yeah.wav" 123016 0 1654889612 0
+DATA s:44100 n:1 l:0:00.697 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\Fred_Likes_Bass.wav" 147592 0 1654889612 0
+DATA s:44100 n:1 l:0:00.836 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\ML Addifunk.wav" 172168 0 1654889612 0
+DATA s:44100 n:1 l:0:00.975 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\Native Curse.wav" 327816 0 1654889612 0
+DATA s:44100 n:1 l:0:01.858 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\OOH_YAH_OO.wav" 24712 0 1654889612 0
+DATA s:44100 n:1 l:0:00.139 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\Retro_Speaking.wav" 467080 0 1654889612 0
+DATA s:44100 n:1 l:0:02.647 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\SAM_SERUM.wav" 409736 0 1654889612 0
+DATA s:44100 n:1 l:0:02.322 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\SAM_Speaks.wav" 114824 0 1654889612 0
+DATA s:44100 n:1 l:0:00.650 i:32
+FILE "C:\Users\Liquid\Documents\Xfer\Serum Presets\Tables\Vowel\WahWah.wav" 336008 0 1654889612 0
+DATA s:44100 n:1 l:0:01.904 i:32
