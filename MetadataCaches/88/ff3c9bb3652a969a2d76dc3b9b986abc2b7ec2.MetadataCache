@@ -1,4 +1,16 @@
 C10018 C:\SUNO
+F "Haunt Me.mp3" 10313184 0 1774817717 0
+D c "made with suno; created=2026-0" s 48000 n 2 l 4:17.688
+D i 320k
+F "I see your eyes, I know you see me (1).mp3" 7382794 0 1773516635 0
+D t "I see your eyes, I know you see me" a liquidsynthez s 48000 n 2
+D l 5:06.639 i 192k j "mime:image/jpeg offset:2871 length:14283"
+F "I see your eyes, I know you see me (2).mp3" 7344743 0 1773516899 0
+D t "I see your eyes, I know you see me" a liquidsynthez s 48000 n 2
+D l 5:14.959 i 186k j "mime:image/jpeg offset:2871 length:13552"
+F "I see your eyes, I know you see me.mp3" 7379703 0 1773516606 0
+D t "I see your eyes, I know you see me" a liquidsynthez s 48000 n 2
+D l 5:29.279 i 179k j "mime:image/jpeg offset:2843 length:10812"
 F "If 1.mp3" 6431066 0 1772813578 0
 D t "If 1" a joyouselectronic764 s 48000 n 2
 D l 5:14.199 i 164k
