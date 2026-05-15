@@ -1,0 +1,40 @@
+<TRACK
+  NAME ""
+  PEAKCOL 16576
+  BEAT -1
+  AUTOMODE 0
+  PANLAWFLAGS 3
+  VOLPAN 1 0 -1 -1 1
+  MUTESOLO 0 0 0
+  IPHASE 0
+  PLAYOFFS 0 1
+  ISBUS 0 0
+  BUSCOMP 0 0 0 0 0
+  SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+  FIXEDLANES 9 0 0 0 0
+  REC 0 0 0 0 0 0 0 0
+  VU 2
+  TRACKHEIGHT 325 0 0 0 0 0 0
+  INQ 0 0 0 0.5 100 0 0 100
+  NCHAN 2
+  FX 1
+  TRACKID {EC0778EC-0739-441E-A8F1-7B7E06F6E67B}
+  PERF 0
+  UNDO_HAS_TRACKENV
+  MIDIOUT -1
+  MAINSEND 1 0
+  <FXCHAIN
+    SHOW 0
+    LASTSEL 0
+    DOCKED 0
+    BYPASS 0 0 0
+    <JS "ZenoMOD/zenomod_VU Meter (ZenoMOD).jsfx" ""
+      5 0 -7 0 45 0.006 0 1 0 1 0 0 0 - - - - - - -20 -20 0 0 -20 -20 -316.5 -316.5 - - - - - - - - - - - - 3 1 1 0 1 0.1 0 12 - - 0 - - - - - - - - - - - - - 1 "VU metter - Default"
+    >
+    JS_DIMS 974 539
+    PRESETNAME "VU metter - Default"
+    FLOATPOS 0 0 0 0
+    FXID {47B95AE0-AE45-4214-B438-5494EA8A9A01}
+    WAK 0 1
+  >
+>
