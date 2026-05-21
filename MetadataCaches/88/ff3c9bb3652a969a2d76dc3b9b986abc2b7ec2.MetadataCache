@@ -1,4 +1,52 @@
 C10018 C:\SUNO
+F "01 iu_rp.wav" 265290 0 1778100502 0
+D y 2026-05-06 s 44100 n 2 l 0:01.000
+D i 24
+F "03. Lumière.mp3" 9190886 0 1752145253 0
+D t Lumière a "Lorien Testard & Alice Duport-Percier" b "Clair Obscur: Expedition 33 (Original Soundtrack)" y 2025
+D g Score s 44100 n 2 l 3:42.000
+D i 320k m 03 j "mime:image/jpeg offset:2813 length:303036"
+F "04. Lumière - Lumière à l'Aube.mp3" 9588811 0 1752145253 0
+D t "Lumière - Lumière à l'Aube" a "Lorien Testard" b "Clair Obscur: Expedition 33 (Original Soundtrack)" y 2025
+D g Score s 44100 n 2 l 3:52.000
+D i 320k m 04 j "mime:image/jpeg offset:569 length:303036"
+F "25. Aux Lendemains non Écrits.mp3" 9989154 0 1752146288 0
+D t "Aux Lendemains non Écrits" a "Lorien Testard & Alice Duport-Percier" b "Clair Obscur: Expedition 33 (Original Soundtrack)" y 2025
+D g Score s 44100 n 2 l 4:02.000
+D i 320k m 25 j "mime:image/jpeg offset:716 length:303036"
+F "Alice Dance 1.mp3" 8128030 0 1773359905 0
+D t "Alice Dance" a "Liquid Synthez" p 90 s 48000
+D n 2 l 5:43.799 i 184k j "mime:image/jpg offset:236 length:203810"
+F "Anima Answer.mp3" 7231032 0 1774884017 0
+D s 24000 n 2 l 6:01.489 i 160k
+F "Anima Answer.wav" 18424890 0 1774883961 0
+D s 24000 n 1 l 6:23.850 i 16
+F ArtIn_001.mp3 17842676 0 1773422973 0
+D s 44100 n 2 l 7:25.991 i 320k
+F "Black in Far - Ultra.mp3" 10289330 0 1776118924 0
+D t "Black Black" a Ultra s 48000 n 2
+D l 7:35.639 i 180k j "mime:image/jpg offset:1475 length:6273"
+F "Born Like That.mp3" 4019247 0 1778701581 0
+D t "Born Like That" p 125 s 44100 n 2
+D l 3:46.023 i 142k
+F "Cosmic Nerve 4.mp3" 5764656 0 1774675559 0
+D t "Cosmic Nerve 4" a liquidsynthez s 48000 n 2
+D l 4:08.599 i 185k j "mime:image/jpeg offset:2901 length:11171"
+F Crysalis.mp3 6218344 0 1775035957 0
+D t Crysalis a liquidsynthez s 48000 n 2
+D l 4:28.319 i 185k j "mime:image/jpeg offset:2395 length:17165"
+F Expressive.mp3 7509238 0 1775036151 0
+D t Expressive a liquidsynthez s 48000 n 2
+D l 4:59.959 i 198k j "mime:image/jpeg offset:2399 length:70231"
+F "ExS Beat.wav" 47401128 0 1774944222 0
+D c "made with suno; created=2026-03-31T08:01:23Z; id=3079d996-fc13-444d-80ad-3725ddad1788" s 48000 n 2 l 4:06.879
+D i 16
+F Hant.wav 71188668 0 1775208354 0
+D y 2026-04-03 s 44100 n 2 l 4:29.039
+D i 24
+F "Haunt me v3.wav" 51655848 0 1774768633 0
+D c "made with suno; created=2026-03-29T07:15:13Z; id=ad88e61c-b08d-495a-9244-c61047cfb4ec" s 48000 n 2 l 4:29.039
+D i 16
 F "Haunt Me.mp3" 10313184 0 1774817717 0
 D c "made with suno; created=2026-0" s 48000 n 2 l 4:17.688
 D i 320k
@@ -147,6 +195,26 @@ D y 2026-04-06 s 44100 n 2 l 3:46.599
 D i 24
 F zaeblo.mp3 9057174 0 1773146822 0
 D s 44100 n 2 l 3:46.353 i 320k
+F "Без названия.wav" 20235450 0 1773421199 0
+D s 24000 n 1 l 7:01.570 i 16
+F "Бьёт полночь, зеркало исходит кровью,.mp3" 6664002 0 1775034777 0
+D t "Бьёт полночь, зеркало исходит кровью," a liquidsynthez s 48000 n 2
+D l 5:03.639 i 175k j "mime:image/jpeg offset:5091 length:10703"
+F Мерлин.wav 38776492 0 1778060600 0
+D c "made with suno; created=2026-05-06T09:41:43Z; id=020e62c9-cbc7-4a61-8734-cfd930280dd0" s 48000 n 2 l 3:21.960
+D i 16
+F "Почему у человека Грустное ебало.mp3" 3207352 0 1772800136 0
+D t "Почему у человека Грустное ебало?" a LSX g Реп s 48000
+D n 2 l 2:22.679 i 179k j "mime:image/jpg offset:271 length:10467"
+F "Споймай Меня -v3.mp3" 6664002 0 1775344014 0
+D t "лови меня" a liquidsynthez s 48000 n 2
+D l 5:03.639 i 175k j "mime:image/jpg offset:171 length:10703"
+F "Споймай Меня.mp3" 6664002 0 1775035339 0
+D t "Споймай Меня" a "Liquid Synthez" p 104 s 48000
+D n 2 l 5:03.639 i 175k j "mime:image/jpg offset:240 length:10703"
 F "Трагедия Евгения.wav" 61739692 0 1778060554 0
 D c "made with suno; created=2026-05-06T09:40:50Z; id=bf4448ae-ec6f-4c6e-8609-d432c618d124" s 48000 n 2 l 5:21.560
 D i 16
+F "почему мне так холодно.mp3" 5178145 0 1772710659 0
+D t "Может быть, мне страну поменять?" a joyouselectronic764 s 48000 n 2
+D l 3:54.199 i 176k j "mime:image/jpeg offset:3257 length:9040"
